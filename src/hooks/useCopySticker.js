@@ -1,5 +1,7 @@
 import { useState, useCallback } from 'react'
 
+const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
+
 export function useCopySticker(onCopied) {
   const [copyingId, setCopyingId] = useState(null)
   const [toasts, setToasts] = useState([])
@@ -21,11 +23,22 @@ export function useCopySticker(onCopied) {
 
     try {
       if (sticker.path) {
-        const copied = await tryClipboard(sticker.path)
-        if (copied) {
-          addToast('📋 Copiado! Cole no Instagram', 'success')
+        const isGif = sticker.path.toLowerCase().endsWith('.gif')
+
+        if (isGif && isMobile) {
+          // GIF no mobile: abre o compartilhamento do sistema → Instagram aceita como Stories/Reels
+          const shared = await shareFile(sticker.path, sticker.name, 'image/gif')
+          if (!shared) {
+            await downloadImage(sticker.path, sticker.name, 'gif')
+            addToast('💾 GIF salvo! Abra no Instagram e escolha da galeria', 'success')
+          }
         } else {
-          addToast('⚠️ Seu navegador não suporta copiar imagem. Use o botão de compartilhar.', 'error')
+          const copied = await tryClipboard(sticker.path)
+          if (copied) {
+            addToast('📋 Copiado! Cole no Instagram', 'success')
+          } else {
+            addToast('⚠️ Seu navegador não suporta copiar imagem. Use o botão de compartilhar.', 'error')
+          }
         }
       } else {
         await navigator.clipboard.writeText(sticker.emoji)
@@ -87,13 +100,30 @@ async function tryClipboard(imageUrl) {
   }
 }
 
-async function downloadImage(imageUrl, name) {
+// Returns true if share was initiated, false if not supported
+async function shareFile(imageUrl, name, mimeType) {
+  if (!navigator.share) return false
+  try {
+    const response = await fetch(imageUrl)
+    const blob = await response.blob()
+    const ext = mimeType === 'image/gif' ? 'gif' : 'png'
+    const file = new File([blob], `${name || 'figurinha'}.${ext}`, { type: mimeType })
+    if (!navigator.canShare?.({ files: [file] })) return false
+    await navigator.share({ files: [file], title: name || 'Figurinha' })
+    return true
+  } catch (err) {
+    if (err.name === 'AbortError') return true // usuário fechou o sheet — não é erro
+    return false
+  }
+}
+
+async function downloadImage(imageUrl, name, ext = 'png') {
   const response = await fetch(imageUrl)
   const blob = await response.blob()
   const url = URL.createObjectURL(blob)
   const a = document.createElement('a')
   a.href = url
-  a.download = `${name || 'figurinha'}.png`
+  a.download = `${name || 'figurinha'}.${ext}`
   document.body.appendChild(a)
   a.click()
   document.body.removeChild(a)
