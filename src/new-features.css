@@ -1960,29 +1960,9 @@
   transform: scale(1.05);
 }
 
-/* ============================
-   CARD ENTRANCE ANIMATION
-   ============================ */
-@keyframes cardFadeIn {
-  from { opacity: 0; transform: scale(0.92) translateY(10px); }
-  to   { opacity: 1; transform: scale(1) translateY(0); }
-}
+/* card entrance animation removida — causava jank no scroll (react-window remonta cards) */
 
-.sticker-card {
-  animation: cardFadeIn 0.25s ease forwards;
-}
-
-/* ============================
-   SKELETON SHIMMER — MORE VISIBLE
-   ============================ */
-.sticker-placeholder {
-  background: linear-gradient(
-    90deg,
-    rgba(255,255,255,0.05) 25%,
-    rgba(57,255,20,0.10) 50%,
-    rgba(255,255,255,0.05) 75%
-  ) !important;
-}
+/* shimmer removido — fundo estático é suficiente e mais leve */
 
 /* ============================
    MOBILE TOAST — BIGGER
