@@ -1,0 +1,7002 @@
+{
+  "generated": "2026-03-12T14:41:20.507Z",
+  "totalCount": 621,
+  "categories": [
+    {
+      "id": "todos",
+      "name": "Todos",
+      "emoji": "✨",
+      "color": "#39ff14"
+    },
+    {
+      "id": "dias-da-semana",
+      "name": "Dias da Semana",
+      "emoji": "📅",
+      "color": "#00d4ff",
+      "count": 61
+    },
+    {
+      "id": "domingrau",
+      "name": "Domingrau",
+      "emoji": "🏍️",
+      "color": "#ff2d78",
+      "count": 11
+    },
+    {
+      "id": "99-ifood-uber",
+      "name": "iFood & Uber",
+      "emoji": "🛵",
+      "color": "#ea1d2c",
+      "count": 27
+    },
+    {
+      "id": "animados",
+      "name": "Animados",
+      "emoji": "🎬",
+      "color": "#bc13fe",
+      "count": 27
+    },
+    {
+      "id": "boa-noite",
+      "name": "Boa Noite",
+      "emoji": "🌙",
+      "color": "#bc13fe",
+      "count": 25
+    },
+    {
+      "id": "boa-tarde",
+      "name": "Boa Tarde",
+      "emoji": "🌤️",
+      "color": "#ff6b35",
+      "count": 36
+    },
+    {
+      "id": "bom-dia",
+      "name": "Bom Dia",
+      "emoji": "☀️",
+      "color": "#ffd700",
+      "count": 69
+    },
+    {
+      "id": "extra",
+      "name": "Extra",
+      "emoji": "💎",
+      "color": "#a0a0a0",
+      "count": 55
+    },
+    {
+      "id": "figurinhas",
+      "name": "Figurinhas",
+      "emoji": "✨",
+      "color": "#39ff14",
+      "count": 30
+    },
+    {
+      "id": "insta-metas",
+      "name": "Metas Instagram",
+      "emoji": "📈",
+      "color": "#39ff14",
+      "count": 24
+    },
+    {
+      "id": "interativos",
+      "name": "Interativos",
+      "emoji": "👆",
+      "color": "#bc13fe",
+      "count": 97
+    },
+    {
+      "id": "mais-aqui",
+      "name": "Mais",
+      "emoji": "➕",
+      "color": "#aaaaaa",
+      "count": 66
+    },
+    {
+      "id": "memes-e-frases",
+      "name": "Memes & Frases",
+      "emoji": "💬",
+      "color": "#ffd700",
+      "count": 17
+    },
+    {
+      "id": "para-plataforma",
+      "name": "Para Plataforma",
+      "emoji": "📲",
+      "color": "#00d4ff",
+      "count": 10
+    },
+    {
+      "id": "reacoes",
+      "name": "Reações",
+      "emoji": "🔥",
+      "color": "#ff6b35",
+      "count": 29
+    },
+    {
+      "id": "sombras",
+      "name": "Sombras",
+      "emoji": "🌑",
+      "color": "#6644aa",
+      "count": 37
+    },
+    {
+      "id": "favoritos",
+      "name": "Favoritos",
+      "emoji": "❤️",
+      "color": "#ff2d78"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "dias-da-semana-0",
+      "path": "/stickers/(DIAS DA SEMANA)/10 (QUARTA).png",
+      "category": "dias-da-semana",
+      "name": "10 (QUARTA)",
+      "tags": [
+        "dias-da-semana",
+        "10",
+        "(quarta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-1",
+      "path": "/stickers/(DIAS DA SEMANA)/11 (QUINTA).png",
+      "category": "dias-da-semana",
+      "name": "11 (QUINTA)",
+      "tags": [
+        "dias-da-semana",
+        "11",
+        "(quinta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-2",
+      "path": "/stickers/(DIAS DA SEMANA)/12 (SEXTA).png",
+      "category": "dias-da-semana",
+      "name": "12 (SEXTA)",
+      "tags": [
+        "dias-da-semana",
+        "12",
+        "(sexta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-3",
+      "path": "/stickers/(DIAS DA SEMANA)/13 (SABADO).png",
+      "category": "dias-da-semana",
+      "name": "13 (SABADO)",
+      "tags": [
+        "dias-da-semana",
+        "13",
+        "(sabado)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-4",
+      "path": "/stickers/(DIAS DA SEMANA)/14 (DOMINGO).png",
+      "category": "dias-da-semana",
+      "name": "14 (DOMINGO)",
+      "tags": [
+        "dias-da-semana",
+        "14",
+        "(domingo)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-5",
+      "path": "/stickers/(DIAS DA SEMANA)/15 (SEGUNDA).png",
+      "category": "dias-da-semana",
+      "name": "15 (SEGUNDA)",
+      "tags": [
+        "dias-da-semana",
+        "15",
+        "(segunda)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-6",
+      "path": "/stickers/(DIAS DA SEMANA)/16 (TERÇA).png",
+      "category": "dias-da-semana",
+      "name": "16 (TERÇA)",
+      "tags": [
+        "dias-da-semana",
+        "16",
+        "(terça)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-7",
+      "path": "/stickers/(DIAS DA SEMANA)/17 (QUARTA).png",
+      "category": "dias-da-semana",
+      "name": "17 (QUARTA)",
+      "tags": [
+        "dias-da-semana",
+        "17",
+        "(quarta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-8",
+      "path": "/stickers/(DIAS DA SEMANA)/18 (QUINTA).png",
+      "category": "dias-da-semana",
+      "name": "18 (QUINTA)",
+      "tags": [
+        "dias-da-semana",
+        "18",
+        "(quinta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-9",
+      "path": "/stickers/(DIAS DA SEMANA)/19 (SEXTA).png",
+      "category": "dias-da-semana",
+      "name": "19 (SEXTA)",
+      "tags": [
+        "dias-da-semana",
+        "19",
+        "(sexta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-10",
+      "path": "/stickers/(DIAS DA SEMANA)/20 (SABADO).png",
+      "category": "dias-da-semana",
+      "name": "20 (SABADO)",
+      "tags": [
+        "dias-da-semana",
+        "20",
+        "(sabado)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-11",
+      "path": "/stickers/(DIAS DA SEMANA)/21 (DOMINGO).png",
+      "category": "dias-da-semana",
+      "name": "21 (DOMINGO)",
+      "tags": [
+        "dias-da-semana",
+        "21",
+        "(domingo)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-12",
+      "path": "/stickers/(DIAS DA SEMANA)/22 (SEXTOU).png",
+      "category": "dias-da-semana",
+      "name": "22 (SEXTOU)",
+      "tags": [
+        "dias-da-semana",
+        "22",
+        "(sextou)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-13",
+      "path": "/stickers/(DIAS DA SEMANA)/23 (SEGUNDA ).png",
+      "category": "dias-da-semana",
+      "name": "23 (SEGUNDA )",
+      "tags": [
+        "dias-da-semana",
+        "23",
+        "(segunda",
+        ")"
+      ]
+    },
+    {
+      "id": "dias-da-semana-14",
+      "path": "/stickers/(DIAS DA SEMANA)/24 (TERÇA).png",
+      "category": "dias-da-semana",
+      "name": "24 (TERÇA)",
+      "tags": [
+        "dias-da-semana",
+        "24",
+        "(terça)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-15",
+      "path": "/stickers/(DIAS DA SEMANA)/25 (QUARTA).png",
+      "category": "dias-da-semana",
+      "name": "25 (QUARTA)",
+      "tags": [
+        "dias-da-semana",
+        "25",
+        "(quarta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-16",
+      "path": "/stickers/(DIAS DA SEMANA)/26 (QUINTA).png",
+      "category": "dias-da-semana",
+      "name": "26 (QUINTA)",
+      "tags": [
+        "dias-da-semana",
+        "26",
+        "(quinta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-17",
+      "path": "/stickers/(DIAS DA SEMANA)/27 (SEXTA).png",
+      "category": "dias-da-semana",
+      "name": "27 (SEXTA)",
+      "tags": [
+        "dias-da-semana",
+        "27",
+        "(sexta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-18",
+      "path": "/stickers/(DIAS DA SEMANA)/28 (SABADO).png",
+      "category": "dias-da-semana",
+      "name": "28 (SABADO)",
+      "tags": [
+        "dias-da-semana",
+        "28",
+        "(sabado)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-19",
+      "path": "/stickers/(DIAS DA SEMANA)/8 (SEGUNDA).png",
+      "category": "dias-da-semana",
+      "name": "8 (SEGUNDA)",
+      "tags": [
+        "dias-da-semana",
+        "8",
+        "(segunda)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-20",
+      "path": "/stickers/(DIAS DA SEMANA)/9 (TERÇA).png",
+      "category": "dias-da-semana",
+      "name": "9 (TERÇA)",
+      "tags": [
+        "dias-da-semana",
+        "9",
+        "(terça)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-21",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 10 (QUARTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 10 (QUARTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "10",
+        "(quarta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-22",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 11 (QUINTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 11 (QUINTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "11",
+        "(quinta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-23",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 12 (SEXTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 12 (SEXTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "12",
+        "(sexta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-24",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 13 (SABADO).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 13 (SABADO)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "13",
+        "(sabado)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-25",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 14 (DOMINGO).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 14 (DOMINGO)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "14",
+        "(domingo)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-26",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 15 (SEGUNDA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 15 (SEGUNDA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "15",
+        "(segunda)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-27",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 16 (TERÇA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 16 (TERÇA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "16",
+        "(terça)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-28",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 17 (QUARTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 17 (QUARTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "17",
+        "(quarta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-29",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 18 (QUINTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 18 (QUINTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "18",
+        "(quinta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-30",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 19 (SEXTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 19 (SEXTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "19",
+        "(sexta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-31",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 20 (SABADO).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 20 (SABADO)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "20",
+        "(sabado)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-32",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 21 (DOMINGO).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 21 (DOMINGO)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "21",
+        "(domingo)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-33",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 22 (SEXTOU).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 22 (SEXTOU)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "22",
+        "(sextou)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-34",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 23 (SEGUNDA ).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 23 (SEGUNDA )",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "23",
+        "(segunda",
+        ")"
+      ]
+    },
+    {
+      "id": "dias-da-semana-35",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 24 (TERÇA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 24 (TERÇA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "24",
+        "(terça)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-36",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 25 (QUARTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 25 (QUARTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "25",
+        "(quarta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-37",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 26 (QUINTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 26 (QUINTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "26",
+        "(quinta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-38",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 27 (SEXTA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 27 (SEXTA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "27",
+        "(sexta)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-39",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 28 (SABADO).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 28 (SABADO)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "28",
+        "(sabado)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-40",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 8 (SEGUNDA)(1).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 8 (SEGUNDA)(1)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "8",
+        "(segunda)(1)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-41",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 8 (SEGUNDA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 8 (SEGUNDA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "8",
+        "(segunda)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-42",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de 9 (TERÇA).png",
+      "category": "dias-da-semana",
+      "name": "Cópia de 9 (TERÇA)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "9",
+        "(terça)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-43",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de Inserir um título - 13.PNG",
+      "category": "dias-da-semana",
+      "name": "Cópia de Inserir um título - 13",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "inserir",
+        "um",
+        "título",
+        "13"
+      ]
+    },
+    {
+      "id": "dias-da-semana-44",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de Inserir um título - 14.PNG",
+      "category": "dias-da-semana",
+      "name": "Cópia de Inserir um título - 14",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "inserir",
+        "um",
+        "título",
+        "14"
+      ]
+    },
+    {
+      "id": "dias-da-semana-45",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de Inserir um título(1).PNG",
+      "category": "dias-da-semana",
+      "name": "Cópia de Inserir um título(1)",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "inserir",
+        "um",
+        "título(1)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-46",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de Inserir um título.PNG",
+      "category": "dias-da-semana",
+      "name": "Cópia de Inserir um título",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "inserir",
+        "um",
+        "título"
+      ]
+    },
+    {
+      "id": "dias-da-semana-47",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de SABADO--DOS--BAIXOS--BRANCO.png",
+      "category": "dias-da-semana",
+      "name": "Cópia de SABADO--DOS--BAIXOS--BRANCO",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "sabado",
+        "dos",
+        "baixos",
+        "branco"
+      ]
+    },
+    {
+      "id": "dias-da-semana-48",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de sabagrau.png",
+      "category": "dias-da-semana",
+      "name": "Cópia de sabagrau",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "sabagrau"
+      ]
+    },
+    {
+      "id": "dias-da-semana-49",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de SEXTA--DOS--BAIXOS--BRANCO.png",
+      "category": "dias-da-semana",
+      "name": "Cópia de SEXTA--DOS--BAIXOS--BRANCO",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "sexta",
+        "dos",
+        "baixos",
+        "branco"
+      ]
+    },
+    {
+      "id": "dias-da-semana-50",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de sextouu--branco.png",
+      "category": "dias-da-semana",
+      "name": "Cópia de sextouu--branco",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "sextouu",
+        "branco"
+      ]
+    },
+    {
+      "id": "dias-da-semana-51",
+      "path": "/stickers/(DIAS DA SEMANA)/Cópia de Ótimo feriado.png",
+      "category": "dias-da-semana",
+      "name": "Cópia de Ótimo feriado",
+      "tags": [
+        "dias-da-semana",
+        "cópia",
+        "de",
+        "ótimo",
+        "feriado"
+      ]
+    },
+    {
+      "id": "dias-da-semana-52",
+      "path": "/stickers/(DIAS DA SEMANA)/Inserir um título - 13.PNG",
+      "category": "dias-da-semana",
+      "name": "Inserir um título - 13",
+      "tags": [
+        "dias-da-semana",
+        "inserir",
+        "um",
+        "título",
+        "13"
+      ]
+    },
+    {
+      "id": "dias-da-semana-53",
+      "path": "/stickers/(DIAS DA SEMANA)/Inserir um título - 14.PNG",
+      "category": "dias-da-semana",
+      "name": "Inserir um título - 14",
+      "tags": [
+        "dias-da-semana",
+        "inserir",
+        "um",
+        "título",
+        "14"
+      ]
+    },
+    {
+      "id": "dias-da-semana-54",
+      "path": "/stickers/(DIAS DA SEMANA)/Inserir um título(1).PNG",
+      "category": "dias-da-semana",
+      "name": "Inserir um título(1)",
+      "tags": [
+        "dias-da-semana",
+        "inserir",
+        "um",
+        "título(1)"
+      ]
+    },
+    {
+      "id": "dias-da-semana-55",
+      "path": "/stickers/(DIAS DA SEMANA)/Inserir um título.PNG",
+      "category": "dias-da-semana",
+      "name": "Inserir um título",
+      "tags": [
+        "dias-da-semana",
+        "inserir",
+        "um",
+        "título"
+      ]
+    },
+    {
+      "id": "dias-da-semana-56",
+      "path": "/stickers/(DIAS DA SEMANA)/SABADO--DOS--BAIXOS--BRANCO.png",
+      "category": "dias-da-semana",
+      "name": "SABADO--DOS--BAIXOS--BRANCO",
+      "tags": [
+        "dias-da-semana",
+        "sabado",
+        "dos",
+        "baixos",
+        "branco"
+      ]
+    },
+    {
+      "id": "dias-da-semana-57",
+      "path": "/stickers/(DIAS DA SEMANA)/sabagrau.png",
+      "category": "dias-da-semana",
+      "name": "sabagrau",
+      "tags": [
+        "dias-da-semana",
+        "sabagrau"
+      ]
+    },
+    {
+      "id": "dias-da-semana-58",
+      "path": "/stickers/(DIAS DA SEMANA)/SEXTA--DOS--BAIXOS--BRANCO.png",
+      "category": "dias-da-semana",
+      "name": "SEXTA--DOS--BAIXOS--BRANCO",
+      "tags": [
+        "dias-da-semana",
+        "sexta",
+        "dos",
+        "baixos",
+        "branco"
+      ]
+    },
+    {
+      "id": "dias-da-semana-59",
+      "path": "/stickers/(DIAS DA SEMANA)/sextouu--branco.png",
+      "category": "dias-da-semana",
+      "name": "sextouu--branco",
+      "tags": [
+        "dias-da-semana",
+        "sextouu",
+        "branco"
+      ]
+    },
+    {
+      "id": "dias-da-semana-60",
+      "path": "/stickers/(DIAS DA SEMANA)/Ótimo feriado.png",
+      "category": "dias-da-semana",
+      "name": "Ótimo feriado",
+      "tags": [
+        "dias-da-semana",
+        "ótimo",
+        "feriado"
+      ]
+    },
+    {
+      "id": "domingrau-0",
+      "path": "/stickers/(DOMINGRAU)/01.png",
+      "category": "domingrau",
+      "name": "01",
+      "tags": [
+        "domingrau",
+        "01"
+      ]
+    },
+    {
+      "id": "domingrau-1",
+      "path": "/stickers/(DOMINGRAU)/05.png",
+      "category": "domingrau",
+      "name": "05",
+      "tags": [
+        "domingrau",
+        "05"
+      ]
+    },
+    {
+      "id": "domingrau-2",
+      "path": "/stickers/(DOMINGRAU)/1.png",
+      "category": "domingrau",
+      "name": "1",
+      "tags": [
+        "domingrau",
+        "1"
+      ]
+    },
+    {
+      "id": "domingrau-3",
+      "path": "/stickers/(DOMINGRAU)/2.png",
+      "category": "domingrau",
+      "name": "2",
+      "tags": [
+        "domingrau",
+        "2"
+      ]
+    },
+    {
+      "id": "domingrau-4",
+      "path": "/stickers/(DOMINGRAU)/3.png",
+      "category": "domingrau",
+      "name": "3",
+      "tags": [
+        "domingrau",
+        "3"
+      ]
+    },
+    {
+      "id": "domingrau-5",
+      "path": "/stickers/(DOMINGRAU)/4.png",
+      "category": "domingrau",
+      "name": "4",
+      "tags": [
+        "domingrau",
+        "4"
+      ]
+    },
+    {
+      "id": "domingrau-6",
+      "path": "/stickers/(DOMINGRAU)/5.png",
+      "category": "domingrau",
+      "name": "5",
+      "tags": [
+        "domingrau",
+        "5"
+      ]
+    },
+    {
+      "id": "domingrau-7",
+      "path": "/stickers/(DOMINGRAU)/BOA BOA HOJE E DOMINGRAU.png",
+      "category": "domingrau",
+      "name": "BOA BOA HOJE E DOMINGRAU",
+      "tags": [
+        "domingrau",
+        "boa",
+        "boa",
+        "hoje",
+        "e",
+        "domingrau"
+      ]
+    },
+    {
+      "id": "domingrau-8",
+      "path": "/stickers/(DOMINGRAU)/domingrau.png",
+      "category": "domingrau",
+      "name": "domingrau",
+      "tags": [
+        "domingrau",
+        "domingrau"
+      ]
+    },
+    {
+      "id": "domingrau-9",
+      "path": "/stickers/(DOMINGRAU)/hoje e domingrau x2.png",
+      "category": "domingrau",
+      "name": "hoje e domingrau x2",
+      "tags": [
+        "domingrau",
+        "hoje",
+        "e",
+        "domingrau",
+        "x2"
+      ]
+    },
+    {
+      "id": "domingrau-10",
+      "path": "/stickers/(DOMINGRAU)/hoje e domingrau.png",
+      "category": "domingrau",
+      "name": "hoje e domingrau",
+      "tags": [
+        "domingrau",
+        "hoje",
+        "e",
+        "domingrau"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-0",
+      "path": "/stickers/99 -IFOOD- UBER/1.png",
+      "category": "99-ifood-uber",
+      "name": "1",
+      "tags": [
+        "99-ifood-uber",
+        "1"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-1",
+      "path": "/stickers/99 -IFOOD- UBER/10.png",
+      "category": "99-ifood-uber",
+      "name": "10",
+      "tags": [
+        "99-ifood-uber",
+        "10"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-2",
+      "path": "/stickers/99 -IFOOD- UBER/11.png",
+      "category": "99-ifood-uber",
+      "name": "11",
+      "tags": [
+        "99-ifood-uber",
+        "11"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-3",
+      "path": "/stickers/99 -IFOOD- UBER/12.png",
+      "category": "99-ifood-uber",
+      "name": "12",
+      "tags": [
+        "99-ifood-uber",
+        "12"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-4",
+      "path": "/stickers/99 -IFOOD- UBER/13.png",
+      "category": "99-ifood-uber",
+      "name": "13",
+      "tags": [
+        "99-ifood-uber",
+        "13"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-5",
+      "path": "/stickers/99 -IFOOD- UBER/2.png",
+      "category": "99-ifood-uber",
+      "name": "2",
+      "tags": [
+        "99-ifood-uber",
+        "2"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-6",
+      "path": "/stickers/99 -IFOOD- UBER/4.png",
+      "category": "99-ifood-uber",
+      "name": "4",
+      "tags": [
+        "99-ifood-uber",
+        "4"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-7",
+      "path": "/stickers/99 -IFOOD- UBER/5.png",
+      "category": "99-ifood-uber",
+      "name": "5",
+      "tags": [
+        "99-ifood-uber",
+        "5"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-8",
+      "path": "/stickers/99 -IFOOD- UBER/6.png",
+      "category": "99-ifood-uber",
+      "name": "6",
+      "tags": [
+        "99-ifood-uber",
+        "6"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-9",
+      "path": "/stickers/99 -IFOOD- UBER/7.png",
+      "category": "99-ifood-uber",
+      "name": "7",
+      "tags": [
+        "99-ifood-uber",
+        "7"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-10",
+      "path": "/stickers/99 -IFOOD- UBER/8.png",
+      "category": "99-ifood-uber",
+      "name": "8",
+      "tags": [
+        "99-ifood-uber",
+        "8"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-11",
+      "path": "/stickers/99 -IFOOD- UBER/9.png",
+      "category": "99-ifood-uber",
+      "name": "9",
+      "tags": [
+        "99-ifood-uber",
+        "9"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-12",
+      "path": "/stickers/99 -IFOOD- UBER/espancando o ifood.png",
+      "category": "99-ifood-uber",
+      "name": "espancando o ifood",
+      "tags": [
+        "99-ifood-uber",
+        "espancando",
+        "o",
+        "ifood"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-13",
+      "path": "/stickers/99 -IFOOD- UBER/hoje e 300 no sol de 41.png",
+      "category": "99-ifood-uber",
+      "name": "hoje e 300 no sol de 41",
+      "tags": [
+        "99-ifood-uber",
+        "hoje",
+        "e",
+        "300",
+        "no",
+        "sol",
+        "de",
+        "41"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-14",
+      "path": "/stickers/99 -IFOOD- UBER/hoje e 300x2.png",
+      "category": "99-ifood-uber",
+      "name": "hoje e 300x2",
+      "tags": [
+        "99-ifood-uber",
+        "hoje",
+        "e",
+        "300x2"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-15",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4123.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4123",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4123"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-16",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4124.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4124",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4124"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-17",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4125.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4125",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4125"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-18",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4126.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4126",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4126"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-19",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4127.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4127",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4127"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-20",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4128.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4128",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4128"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-21",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4129.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4129",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4129"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-22",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4130.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4130",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4130"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-23",
+      "path": "/stickers/99 -IFOOD- UBER/IMG_4131.PNG",
+      "category": "99-ifood-uber",
+      "name": "IMG_4131",
+      "tags": [
+        "99-ifood-uber",
+        "img",
+        "4131"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-24",
+      "path": "/stickers/99 -IFOOD- UBER/mais uma entrega.png",
+      "category": "99-ifood-uber",
+      "name": "mais uma entrega",
+      "tags": [
+        "99-ifood-uber",
+        "mais",
+        "uma",
+        "entrega"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-25",
+      "path": "/stickers/99 -IFOOD- UBER/marcha nas entrega.png",
+      "category": "99-ifood-uber",
+      "name": "marcha nas entrega",
+      "tags": [
+        "99-ifood-uber",
+        "marcha",
+        "nas",
+        "entrega"
+      ]
+    },
+    {
+      "id": "99-ifood-uber-26",
+      "path": "/stickers/99 -IFOOD- UBER/poe na bag e vai.png",
+      "category": "99-ifood-uber",
+      "name": "poe na bag e vai",
+      "tags": [
+        "99-ifood-uber",
+        "poe",
+        "na",
+        "bag",
+        "e",
+        "vai"
+      ]
+    },
+    {
+      "id": "animados-0",
+      "path": "/stickers/animados/+-1-entrega.gif",
+      "category": "animados",
+      "name": "+-1-entrega",
+      "tags": [
+        "animados",
+        "+",
+        "1",
+        "entrega"
+      ]
+    },
+    {
+      "id": "animados-1",
+      "path": "/stickers/animados/a-meta-e-faturar.gif",
+      "category": "animados",
+      "name": "a-meta-e-faturar",
+      "tags": [
+        "animados",
+        "a",
+        "meta",
+        "e",
+        "faturar"
+      ]
+    },
+    {
+      "id": "animados-2",
+      "path": "/stickers/animados/aquele-bom-dia-abençoado copy.gif",
+      "category": "animados",
+      "name": "aquele-bom-dia-abençoado copy",
+      "tags": [
+        "animados",
+        "aquele",
+        "bom",
+        "dia",
+        "abençoado",
+        "copy"
+      ]
+    },
+    {
+      "id": "animados-3",
+      "path": "/stickers/animados/aquele-bom-dia-abençoado.gif",
+      "category": "animados",
+      "name": "aquele-bom-dia-abençoado",
+      "tags": [
+        "animados",
+        "aquele",
+        "bom",
+        "dia",
+        "abençoado"
+      ]
+    },
+    {
+      "id": "animados-4",
+      "path": "/stickers/animados/boa-noite-abençoada.gif",
+      "category": "animados",
+      "name": "boa-noite-abençoada",
+      "tags": [
+        "animados",
+        "boa",
+        "noite",
+        "abençoada"
+      ]
+    },
+    {
+      "id": "animados-5",
+      "path": "/stickers/animados/boa-tarde-pra-geral.gif",
+      "category": "animados",
+      "name": "boa-tarde-pra-geral",
+      "tags": [
+        "animados",
+        "boa",
+        "tarde",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "animados-6",
+      "path": "/stickers/animados/boanoite (2).gif",
+      "category": "animados",
+      "name": "boanoite (2)",
+      "tags": [
+        "animados",
+        "boanoite",
+        "(2)"
+      ]
+    },
+    {
+      "id": "animados-7",
+      "path": "/stickers/animados/boanoite.gif",
+      "category": "animados",
+      "name": "boanoite",
+      "tags": [
+        "animados",
+        "boanoite"
+      ]
+    },
+    {
+      "id": "animados-8",
+      "path": "/stickers/animados/boatarde (2).gif",
+      "category": "animados",
+      "name": "boatarde (2)",
+      "tags": [
+        "animados",
+        "boatarde",
+        "(2)"
+      ]
+    },
+    {
+      "id": "animados-9",
+      "path": "/stickers/animados/boatarde (3).gif",
+      "category": "animados",
+      "name": "boatarde (3)",
+      "tags": [
+        "animados",
+        "boatarde",
+        "(3)"
+      ]
+    },
+    {
+      "id": "animados-10",
+      "path": "/stickers/animados/boatarde (4).gif",
+      "category": "animados",
+      "name": "boatarde (4)",
+      "tags": [
+        "animados",
+        "boatarde",
+        "(4)"
+      ]
+    },
+    {
+      "id": "animados-11",
+      "path": "/stickers/animados/boatarde.gif",
+      "category": "animados",
+      "name": "boatarde",
+      "tags": [
+        "animados",
+        "boatarde"
+      ]
+    },
+    {
+      "id": "animados-12",
+      "path": "/stickers/animados/BOM DIA(10).gif",
+      "category": "animados",
+      "name": "BOM DIA(10)",
+      "tags": [
+        "animados",
+        "bom",
+        "dia(10)"
+      ]
+    },
+    {
+      "id": "animados-13",
+      "path": "/stickers/animados/BOM DIA(2).gif",
+      "category": "animados",
+      "name": "BOM DIA(2)",
+      "tags": [
+        "animados",
+        "bom",
+        "dia(2)"
+      ]
+    },
+    {
+      "id": "animados-14",
+      "path": "/stickers/animados/BOM DIA(5).gif",
+      "category": "animados",
+      "name": "BOM DIA(5)",
+      "tags": [
+        "animados",
+        "bom",
+        "dia(5)"
+      ]
+    },
+    {
+      "id": "animados-15",
+      "path": "/stickers/animados/BOM DIA(6).gif",
+      "category": "animados",
+      "name": "BOM DIA(6)",
+      "tags": [
+        "animados",
+        "bom",
+        "dia(6)"
+      ]
+    },
+    {
+      "id": "animados-16",
+      "path": "/stickers/animados/BOM DIA(8).gif",
+      "category": "animados",
+      "name": "BOM DIA(8)",
+      "tags": [
+        "animados",
+        "bom",
+        "dia(8)"
+      ]
+    },
+    {
+      "id": "animados-17",
+      "path": "/stickers/animados/BOM DIA(9).gif",
+      "category": "animados",
+      "name": "BOM DIA(9)",
+      "tags": [
+        "animados",
+        "bom",
+        "dia(9)"
+      ]
+    },
+    {
+      "id": "animados-18",
+      "path": "/stickers/animados/BOM DIA.gif",
+      "category": "animados",
+      "name": "BOM DIA",
+      "tags": [
+        "animados",
+        "bom",
+        "dia"
+      ]
+    },
+    {
+      "id": "animados-19",
+      "path": "/stickers/animados/bom-e-novo.gif",
+      "category": "animados",
+      "name": "bom-e-novo",
+      "tags": [
+        "animados",
+        "bom",
+        "e",
+        "novo"
+      ]
+    },
+    {
+      "id": "animados-20",
+      "path": "/stickers/animados/deita-aqui.gif",
+      "category": "animados",
+      "name": "deita-aqui",
+      "tags": [
+        "animados",
+        "deita",
+        "aqui"
+      ]
+    },
+    {
+      "id": "animados-21",
+      "path": "/stickers/animados/espancando-o-ifood.gif",
+      "category": "animados",
+      "name": "espancando-o-ifood",
+      "tags": [
+        "animados",
+        "espancando",
+        "o",
+        "ifood"
+      ]
+    },
+    {
+      "id": "animados-22",
+      "path": "/stickers/animados/eu-mandei-vc-deitar-aqui.gif",
+      "category": "animados",
+      "name": "eu-mandei-vc-deitar-aqui",
+      "tags": [
+        "animados",
+        "eu",
+        "mandei",
+        "vc",
+        "deitar",
+        "aqui"
+      ]
+    },
+    {
+      "id": "animados-23",
+      "path": "/stickers/animados/hoje-e-300-no-sol-de-41.gif",
+      "category": "animados",
+      "name": "hoje-e-300-no-sol-de-41",
+      "tags": [
+        "animados",
+        "hoje",
+        "e",
+        "300",
+        "no",
+        "sol",
+        "de",
+        "41"
+      ]
+    },
+    {
+      "id": "animados-24",
+      "path": "/stickers/animados/hoje-e-300-x2.gif",
+      "category": "animados",
+      "name": "hoje-e-300-x2",
+      "tags": [
+        "animados",
+        "hoje",
+        "e",
+        "300",
+        "x2"
+      ]
+    },
+    {
+      "id": "animados-25",
+      "path": "/stickers/animados/hoje-e-300.gif",
+      "category": "animados",
+      "name": "hoje-e-300",
+      "tags": [
+        "animados",
+        "hoje",
+        "e",
+        "300"
+      ]
+    },
+    {
+      "id": "animados-26",
+      "path": "/stickers/animados/marcha-nas-entrega.gif",
+      "category": "animados",
+      "name": "marcha-nas-entrega",
+      "tags": [
+        "animados",
+        "marcha",
+        "nas",
+        "entrega"
+      ]
+    },
+    {
+      "id": "boa-noite-0",
+      "path": "/stickers/boa noite/11.png",
+      "category": "boa-noite",
+      "name": "11",
+      "tags": [
+        "boa-noite",
+        "11"
+      ]
+    },
+    {
+      "id": "boa-noite-1",
+      "path": "/stickers/boa noite/12.png",
+      "category": "boa-noite",
+      "name": "12",
+      "tags": [
+        "boa-noite",
+        "12"
+      ]
+    },
+    {
+      "id": "boa-noite-2",
+      "path": "/stickers/boa noite/13.png",
+      "category": "boa-noite",
+      "name": "13",
+      "tags": [
+        "boa-noite",
+        "13"
+      ]
+    },
+    {
+      "id": "boa-noite-3",
+      "path": "/stickers/boa noite/16.png",
+      "category": "boa-noite",
+      "name": "16",
+      "tags": [
+        "boa-noite",
+        "16"
+      ]
+    },
+    {
+      "id": "boa-noite-4",
+      "path": "/stickers/boa noite/17.png",
+      "category": "boa-noite",
+      "name": "17",
+      "tags": [
+        "boa-noite",
+        "17"
+      ]
+    },
+    {
+      "id": "boa-noite-5",
+      "path": "/stickers/boa noite/19.png",
+      "category": "boa-noite",
+      "name": "19",
+      "tags": [
+        "boa-noite",
+        "19"
+      ]
+    },
+    {
+      "id": "boa-noite-6",
+      "path": "/stickers/boa noite/20.png",
+      "category": "boa-noite",
+      "name": "20",
+      "tags": [
+        "boa-noite",
+        "20"
+      ]
+    },
+    {
+      "id": "boa-noite-7",
+      "path": "/stickers/boa noite/23.png",
+      "category": "boa-noite",
+      "name": "23",
+      "tags": [
+        "boa-noite",
+        "23"
+      ]
+    },
+    {
+      "id": "boa-noite-8",
+      "path": "/stickers/boa noite/24.png",
+      "category": "boa-noite",
+      "name": "24",
+      "tags": [
+        "boa-noite",
+        "24"
+      ]
+    },
+    {
+      "id": "boa-noite-9",
+      "path": "/stickers/boa noite/25.png",
+      "category": "boa-noite",
+      "name": "25",
+      "tags": [
+        "boa-noite",
+        "25"
+      ]
+    },
+    {
+      "id": "boa-noite-10",
+      "path": "/stickers/boa noite/26.png",
+      "category": "boa-noite",
+      "name": "26",
+      "tags": [
+        "boa-noite",
+        "26"
+      ]
+    },
+    {
+      "id": "boa-noite-11",
+      "path": "/stickers/boa noite/28.png",
+      "category": "boa-noite",
+      "name": "28",
+      "tags": [
+        "boa-noite",
+        "28"
+      ]
+    },
+    {
+      "id": "boa-noite-12",
+      "path": "/stickers/boa noite/29.png",
+      "category": "boa-noite",
+      "name": "29",
+      "tags": [
+        "boa-noite",
+        "29"
+      ]
+    },
+    {
+      "id": "boa-noite-13",
+      "path": "/stickers/boa noite/30.png",
+      "category": "boa-noite",
+      "name": "30",
+      "tags": [
+        "boa-noite",
+        "30"
+      ]
+    },
+    {
+      "id": "boa-noite-14",
+      "path": "/stickers/boa noite/31.png",
+      "category": "boa-noite",
+      "name": "31",
+      "tags": [
+        "boa-noite",
+        "31"
+      ]
+    },
+    {
+      "id": "boa-noite-15",
+      "path": "/stickers/boa noite/32.png",
+      "category": "boa-noite",
+      "name": "32",
+      "tags": [
+        "boa-noite",
+        "32"
+      ]
+    },
+    {
+      "id": "boa-noite-16",
+      "path": "/stickers/boa noite/33.png",
+      "category": "boa-noite",
+      "name": "33",
+      "tags": [
+        "boa-noite",
+        "33"
+      ]
+    },
+    {
+      "id": "boa-noite-17",
+      "path": "/stickers/boa noite/35.png",
+      "category": "boa-noite",
+      "name": "35",
+      "tags": [
+        "boa-noite",
+        "35"
+      ]
+    },
+    {
+      "id": "boa-noite-18",
+      "path": "/stickers/boa noite/36.png",
+      "category": "boa-noite",
+      "name": "36",
+      "tags": [
+        "boa-noite",
+        "36"
+      ]
+    },
+    {
+      "id": "boa-noite-19",
+      "path": "/stickers/boa noite/39.png",
+      "category": "boa-noite",
+      "name": "39",
+      "tags": [
+        "boa-noite",
+        "39"
+      ]
+    },
+    {
+      "id": "boa-noite-20",
+      "path": "/stickers/boa noite/42.png",
+      "category": "boa-noite",
+      "name": "42",
+      "tags": [
+        "boa-noite",
+        "42"
+      ]
+    },
+    {
+      "id": "boa-noite-21",
+      "path": "/stickers/boa noite/43.png",
+      "category": "boa-noite",
+      "name": "43",
+      "tags": [
+        "boa-noite",
+        "43"
+      ]
+    },
+    {
+      "id": "boa-noite-22",
+      "path": "/stickers/boa noite/44.png",
+      "category": "boa-noite",
+      "name": "44",
+      "tags": [
+        "boa-noite",
+        "44"
+      ]
+    },
+    {
+      "id": "boa-noite-23",
+      "path": "/stickers/boa noite/48.png",
+      "category": "boa-noite",
+      "name": "48",
+      "tags": [
+        "boa-noite",
+        "48"
+      ]
+    },
+    {
+      "id": "boa-noite-24",
+      "path": "/stickers/boa noite/aquela boa noite.png",
+      "category": "boa-noite",
+      "name": "aquela boa noite",
+      "tags": [
+        "boa-noite",
+        "aquela",
+        "boa",
+        "noite"
+      ]
+    },
+    {
+      "id": "boa-tarde-0",
+      "path": "/stickers/boa tarde/1.png",
+      "category": "boa-tarde",
+      "name": "1",
+      "tags": [
+        "boa-tarde",
+        "1"
+      ]
+    },
+    {
+      "id": "boa-tarde-1",
+      "path": "/stickers/boa tarde/10.png",
+      "category": "boa-tarde",
+      "name": "10",
+      "tags": [
+        "boa-tarde",
+        "10"
+      ]
+    },
+    {
+      "id": "boa-tarde-2",
+      "path": "/stickers/boa tarde/11.png",
+      "category": "boa-tarde",
+      "name": "11",
+      "tags": [
+        "boa-tarde",
+        "11"
+      ]
+    },
+    {
+      "id": "boa-tarde-3",
+      "path": "/stickers/boa tarde/12.png",
+      "category": "boa-tarde",
+      "name": "12",
+      "tags": [
+        "boa-tarde",
+        "12"
+      ]
+    },
+    {
+      "id": "boa-tarde-4",
+      "path": "/stickers/boa tarde/13.png",
+      "category": "boa-tarde",
+      "name": "13",
+      "tags": [
+        "boa-tarde",
+        "13"
+      ]
+    },
+    {
+      "id": "boa-tarde-5",
+      "path": "/stickers/boa tarde/14.png",
+      "category": "boa-tarde",
+      "name": "14",
+      "tags": [
+        "boa-tarde",
+        "14"
+      ]
+    },
+    {
+      "id": "boa-tarde-6",
+      "path": "/stickers/boa tarde/15.png",
+      "category": "boa-tarde",
+      "name": "15",
+      "tags": [
+        "boa-tarde",
+        "15"
+      ]
+    },
+    {
+      "id": "boa-tarde-7",
+      "path": "/stickers/boa tarde/16.PNG",
+      "category": "boa-tarde",
+      "name": "16",
+      "tags": [
+        "boa-tarde",
+        "16"
+      ]
+    },
+    {
+      "id": "boa-tarde-8",
+      "path": "/stickers/boa tarde/17.png",
+      "category": "boa-tarde",
+      "name": "17",
+      "tags": [
+        "boa-tarde",
+        "17"
+      ]
+    },
+    {
+      "id": "boa-tarde-9",
+      "path": "/stickers/boa tarde/18.png",
+      "category": "boa-tarde",
+      "name": "18",
+      "tags": [
+        "boa-tarde",
+        "18"
+      ]
+    },
+    {
+      "id": "boa-tarde-10",
+      "path": "/stickers/boa tarde/19.png",
+      "category": "boa-tarde",
+      "name": "19",
+      "tags": [
+        "boa-tarde",
+        "19"
+      ]
+    },
+    {
+      "id": "boa-tarde-11",
+      "path": "/stickers/boa tarde/20.png",
+      "category": "boa-tarde",
+      "name": "20",
+      "tags": [
+        "boa-tarde",
+        "20"
+      ]
+    },
+    {
+      "id": "boa-tarde-12",
+      "path": "/stickers/boa tarde/21.png",
+      "category": "boa-tarde",
+      "name": "21",
+      "tags": [
+        "boa-tarde",
+        "21"
+      ]
+    },
+    {
+      "id": "boa-tarde-13",
+      "path": "/stickers/boa tarde/22.png",
+      "category": "boa-tarde",
+      "name": "22",
+      "tags": [
+        "boa-tarde",
+        "22"
+      ]
+    },
+    {
+      "id": "boa-tarde-14",
+      "path": "/stickers/boa tarde/23.png",
+      "category": "boa-tarde",
+      "name": "23",
+      "tags": [
+        "boa-tarde",
+        "23"
+      ]
+    },
+    {
+      "id": "boa-tarde-15",
+      "path": "/stickers/boa tarde/24.png",
+      "category": "boa-tarde",
+      "name": "24",
+      "tags": [
+        "boa-tarde",
+        "24"
+      ]
+    },
+    {
+      "id": "boa-tarde-16",
+      "path": "/stickers/boa tarde/25.png",
+      "category": "boa-tarde",
+      "name": "25",
+      "tags": [
+        "boa-tarde",
+        "25"
+      ]
+    },
+    {
+      "id": "boa-tarde-17",
+      "path": "/stickers/boa tarde/26.png",
+      "category": "boa-tarde",
+      "name": "26",
+      "tags": [
+        "boa-tarde",
+        "26"
+      ]
+    },
+    {
+      "id": "boa-tarde-18",
+      "path": "/stickers/boa tarde/27.png",
+      "category": "boa-tarde",
+      "name": "27",
+      "tags": [
+        "boa-tarde",
+        "27"
+      ]
+    },
+    {
+      "id": "boa-tarde-19",
+      "path": "/stickers/boa tarde/28.png",
+      "category": "boa-tarde",
+      "name": "28",
+      "tags": [
+        "boa-tarde",
+        "28"
+      ]
+    },
+    {
+      "id": "boa-tarde-20",
+      "path": "/stickers/boa tarde/29.png",
+      "category": "boa-tarde",
+      "name": "29",
+      "tags": [
+        "boa-tarde",
+        "29"
+      ]
+    },
+    {
+      "id": "boa-tarde-21",
+      "path": "/stickers/boa tarde/30.png",
+      "category": "boa-tarde",
+      "name": "30",
+      "tags": [
+        "boa-tarde",
+        "30"
+      ]
+    },
+    {
+      "id": "boa-tarde-22",
+      "path": "/stickers/boa tarde/31.png",
+      "category": "boa-tarde",
+      "name": "31",
+      "tags": [
+        "boa-tarde",
+        "31"
+      ]
+    },
+    {
+      "id": "boa-tarde-23",
+      "path": "/stickers/boa tarde/32.png",
+      "category": "boa-tarde",
+      "name": "32",
+      "tags": [
+        "boa-tarde",
+        "32"
+      ]
+    },
+    {
+      "id": "boa-tarde-24",
+      "path": "/stickers/boa tarde/33.png",
+      "category": "boa-tarde",
+      "name": "33",
+      "tags": [
+        "boa-tarde",
+        "33"
+      ]
+    },
+    {
+      "id": "boa-tarde-25",
+      "path": "/stickers/boa tarde/34.png",
+      "category": "boa-tarde",
+      "name": "34",
+      "tags": [
+        "boa-tarde",
+        "34"
+      ]
+    },
+    {
+      "id": "boa-tarde-26",
+      "path": "/stickers/boa tarde/35.png",
+      "category": "boa-tarde",
+      "name": "35",
+      "tags": [
+        "boa-tarde",
+        "35"
+      ]
+    },
+    {
+      "id": "boa-tarde-27",
+      "path": "/stickers/boa tarde/36.png",
+      "category": "boa-tarde",
+      "name": "36",
+      "tags": [
+        "boa-tarde",
+        "36"
+      ]
+    },
+    {
+      "id": "boa-tarde-28",
+      "path": "/stickers/boa tarde/37.png",
+      "category": "boa-tarde",
+      "name": "37",
+      "tags": [
+        "boa-tarde",
+        "37"
+      ]
+    },
+    {
+      "id": "boa-tarde-29",
+      "path": "/stickers/boa tarde/38.png",
+      "category": "boa-tarde",
+      "name": "38",
+      "tags": [
+        "boa-tarde",
+        "38"
+      ]
+    },
+    {
+      "id": "boa-tarde-30",
+      "path": "/stickers/boa tarde/7.png",
+      "category": "boa-tarde",
+      "name": "7",
+      "tags": [
+        "boa-tarde",
+        "7"
+      ]
+    },
+    {
+      "id": "boa-tarde-31",
+      "path": "/stickers/boa tarde/aquele boa tarde.png",
+      "category": "boa-tarde",
+      "name": "aquele boa tarde",
+      "tags": [
+        "boa-tarde",
+        "aquele",
+        "boa",
+        "tarde"
+      ]
+    },
+    {
+      "id": "boa-tarde-32",
+      "path": "/stickers/boa tarde/BOM DIA - 10.png",
+      "category": "boa-tarde",
+      "name": "BOM DIA - 10",
+      "tags": [
+        "boa-tarde",
+        "bom",
+        "dia",
+        "10"
+      ]
+    },
+    {
+      "id": "boa-tarde-33",
+      "path": "/stickers/boa tarde/BOM DIA - 12.png",
+      "category": "boa-tarde",
+      "name": "BOM DIA - 12",
+      "tags": [
+        "boa-tarde",
+        "bom",
+        "dia",
+        "12"
+      ]
+    },
+    {
+      "id": "boa-tarde-34",
+      "path": "/stickers/boa tarde/BOM DIA - 7.png",
+      "category": "boa-tarde",
+      "name": "BOM DIA - 7",
+      "tags": [
+        "boa-tarde",
+        "bom",
+        "dia",
+        "7"
+      ]
+    },
+    {
+      "id": "boa-tarde-35",
+      "path": "/stickers/boa tarde/IMG_4304.PNG",
+      "category": "boa-tarde",
+      "name": "IMG_4304",
+      "tags": [
+        "boa-tarde",
+        "img",
+        "4304"
+      ]
+    },
+    {
+      "id": "bom-dia-0",
+      "path": "/stickers/bom dia/--.png",
+      "category": "bom-dia",
+      "name": "--",
+      "tags": [
+        "bom-dia"
+      ]
+    },
+    {
+      "id": "bom-dia-1",
+      "path": "/stickers/bom dia/01.png",
+      "category": "bom-dia",
+      "name": "01",
+      "tags": [
+        "bom-dia",
+        "01"
+      ]
+    },
+    {
+      "id": "bom-dia-2",
+      "path": "/stickers/bom dia/02.png",
+      "category": "bom-dia",
+      "name": "02",
+      "tags": [
+        "bom-dia",
+        "02"
+      ]
+    },
+    {
+      "id": "bom-dia-3",
+      "path": "/stickers/bom dia/03.png",
+      "category": "bom-dia",
+      "name": "03",
+      "tags": [
+        "bom-dia",
+        "03"
+      ]
+    },
+    {
+      "id": "bom-dia-4",
+      "path": "/stickers/bom dia/04.png",
+      "category": "bom-dia",
+      "name": "04",
+      "tags": [
+        "bom-dia",
+        "04"
+      ]
+    },
+    {
+      "id": "bom-dia-5",
+      "path": "/stickers/bom dia/05.png",
+      "category": "bom-dia",
+      "name": "05",
+      "tags": [
+        "bom-dia",
+        "05"
+      ]
+    },
+    {
+      "id": "bom-dia-6",
+      "path": "/stickers/bom dia/06-.png",
+      "category": "bom-dia",
+      "name": "06-",
+      "tags": [
+        "bom-dia",
+        "06"
+      ]
+    },
+    {
+      "id": "bom-dia-7",
+      "path": "/stickers/bom dia/06.png",
+      "category": "bom-dia",
+      "name": "06",
+      "tags": [
+        "bom-dia",
+        "06"
+      ]
+    },
+    {
+      "id": "bom-dia-8",
+      "path": "/stickers/bom dia/07.png",
+      "category": "bom-dia",
+      "name": "07",
+      "tags": [
+        "bom-dia",
+        "07"
+      ]
+    },
+    {
+      "id": "bom-dia-9",
+      "path": "/stickers/bom dia/08.png",
+      "category": "bom-dia",
+      "name": "08",
+      "tags": [
+        "bom-dia",
+        "08"
+      ]
+    },
+    {
+      "id": "bom-dia-10",
+      "path": "/stickers/bom dia/09.png",
+      "category": "bom-dia",
+      "name": "09",
+      "tags": [
+        "bom-dia",
+        "09"
+      ]
+    },
+    {
+      "id": "bom-dia-11",
+      "path": "/stickers/bom dia/10-.png",
+      "category": "bom-dia",
+      "name": "10-",
+      "tags": [
+        "bom-dia",
+        "10"
+      ]
+    },
+    {
+      "id": "bom-dia-12",
+      "path": "/stickers/bom dia/10.png",
+      "category": "bom-dia",
+      "name": "10",
+      "tags": [
+        "bom-dia",
+        "10"
+      ]
+    },
+    {
+      "id": "bom-dia-13",
+      "path": "/stickers/bom dia/11-.png",
+      "category": "bom-dia",
+      "name": "11-",
+      "tags": [
+        "bom-dia",
+        "11"
+      ]
+    },
+    {
+      "id": "bom-dia-14",
+      "path": "/stickers/bom dia/11.png",
+      "category": "bom-dia",
+      "name": "11",
+      "tags": [
+        "bom-dia",
+        "11"
+      ]
+    },
+    {
+      "id": "bom-dia-15",
+      "path": "/stickers/bom dia/12.png",
+      "category": "bom-dia",
+      "name": "12",
+      "tags": [
+        "bom-dia",
+        "12"
+      ]
+    },
+    {
+      "id": "bom-dia-16",
+      "path": "/stickers/bom dia/13-.png",
+      "category": "bom-dia",
+      "name": "13-",
+      "tags": [
+        "bom-dia",
+        "13"
+      ]
+    },
+    {
+      "id": "bom-dia-17",
+      "path": "/stickers/bom dia/13.png",
+      "category": "bom-dia",
+      "name": "13",
+      "tags": [
+        "bom-dia",
+        "13"
+      ]
+    },
+    {
+      "id": "bom-dia-18",
+      "path": "/stickers/bom dia/14-.png",
+      "category": "bom-dia",
+      "name": "14-",
+      "tags": [
+        "bom-dia",
+        "14"
+      ]
+    },
+    {
+      "id": "bom-dia-19",
+      "path": "/stickers/bom dia/14.png",
+      "category": "bom-dia",
+      "name": "14",
+      "tags": [
+        "bom-dia",
+        "14"
+      ]
+    },
+    {
+      "id": "bom-dia-20",
+      "path": "/stickers/bom dia/15-.png",
+      "category": "bom-dia",
+      "name": "15-",
+      "tags": [
+        "bom-dia",
+        "15"
+      ]
+    },
+    {
+      "id": "bom-dia-21",
+      "path": "/stickers/bom dia/15.png",
+      "category": "bom-dia",
+      "name": "15",
+      "tags": [
+        "bom-dia",
+        "15"
+      ]
+    },
+    {
+      "id": "bom-dia-22",
+      "path": "/stickers/bom dia/16.png",
+      "category": "bom-dia",
+      "name": "16",
+      "tags": [
+        "bom-dia",
+        "16"
+      ]
+    },
+    {
+      "id": "bom-dia-23",
+      "path": "/stickers/bom dia/18.png",
+      "category": "bom-dia",
+      "name": "18",
+      "tags": [
+        "bom-dia",
+        "18"
+      ]
+    },
+    {
+      "id": "bom-dia-24",
+      "path": "/stickers/bom dia/20.png",
+      "category": "bom-dia",
+      "name": "20",
+      "tags": [
+        "bom-dia",
+        "20"
+      ]
+    },
+    {
+      "id": "bom-dia-25",
+      "path": "/stickers/bom dia/21.png",
+      "category": "bom-dia",
+      "name": "21",
+      "tags": [
+        "bom-dia",
+        "21"
+      ]
+    },
+    {
+      "id": "bom-dia-26",
+      "path": "/stickers/bom dia/22.png",
+      "category": "bom-dia",
+      "name": "22",
+      "tags": [
+        "bom-dia",
+        "22"
+      ]
+    },
+    {
+      "id": "bom-dia-27",
+      "path": "/stickers/bom dia/29.PNG",
+      "category": "bom-dia",
+      "name": "29",
+      "tags": [
+        "bom-dia",
+        "29"
+      ]
+    },
+    {
+      "id": "bom-dia-28",
+      "path": "/stickers/bom dia/3.png",
+      "category": "bom-dia",
+      "name": "3",
+      "tags": [
+        "bom-dia",
+        "3"
+      ]
+    },
+    {
+      "id": "bom-dia-29",
+      "path": "/stickers/bom dia/31.png",
+      "category": "bom-dia",
+      "name": "31",
+      "tags": [
+        "bom-dia",
+        "31"
+      ]
+    },
+    {
+      "id": "bom-dia-30",
+      "path": "/stickers/bom dia/33.png",
+      "category": "bom-dia",
+      "name": "33",
+      "tags": [
+        "bom-dia",
+        "33"
+      ]
+    },
+    {
+      "id": "bom-dia-31",
+      "path": "/stickers/bom dia/36.PNG",
+      "category": "bom-dia",
+      "name": "36",
+      "tags": [
+        "bom-dia",
+        "36"
+      ]
+    },
+    {
+      "id": "bom-dia-32",
+      "path": "/stickers/bom dia/38.png",
+      "category": "bom-dia",
+      "name": "38",
+      "tags": [
+        "bom-dia",
+        "38"
+      ]
+    },
+    {
+      "id": "bom-dia-33",
+      "path": "/stickers/bom dia/39.png",
+      "category": "bom-dia",
+      "name": "39",
+      "tags": [
+        "bom-dia",
+        "39"
+      ]
+    },
+    {
+      "id": "bom-dia-34",
+      "path": "/stickers/bom dia/40.png",
+      "category": "bom-dia",
+      "name": "40",
+      "tags": [
+        "bom-dia",
+        "40"
+      ]
+    },
+    {
+      "id": "bom-dia-35",
+      "path": "/stickers/bom dia/41.png",
+      "category": "bom-dia",
+      "name": "41",
+      "tags": [
+        "bom-dia",
+        "41"
+      ]
+    },
+    {
+      "id": "bom-dia-36",
+      "path": "/stickers/bom dia/43.png",
+      "category": "bom-dia",
+      "name": "43",
+      "tags": [
+        "bom-dia",
+        "43"
+      ]
+    },
+    {
+      "id": "bom-dia-37",
+      "path": "/stickers/bom dia/44.png",
+      "category": "bom-dia",
+      "name": "44",
+      "tags": [
+        "bom-dia",
+        "44"
+      ]
+    },
+    {
+      "id": "bom-dia-38",
+      "path": "/stickers/bom dia/45.png",
+      "category": "bom-dia",
+      "name": "45",
+      "tags": [
+        "bom-dia",
+        "45"
+      ]
+    },
+    {
+      "id": "bom-dia-39",
+      "path": "/stickers/bom dia/46.png",
+      "category": "bom-dia",
+      "name": "46",
+      "tags": [
+        "bom-dia",
+        "46"
+      ]
+    },
+    {
+      "id": "bom-dia-40",
+      "path": "/stickers/bom dia/47.png",
+      "category": "bom-dia",
+      "name": "47",
+      "tags": [
+        "bom-dia",
+        "47"
+      ]
+    },
+    {
+      "id": "bom-dia-41",
+      "path": "/stickers/bom dia/48.png",
+      "category": "bom-dia",
+      "name": "48",
+      "tags": [
+        "bom-dia",
+        "48"
+      ]
+    },
+    {
+      "id": "bom-dia-42",
+      "path": "/stickers/bom dia/49.png",
+      "category": "bom-dia",
+      "name": "49",
+      "tags": [
+        "bom-dia",
+        "49"
+      ]
+    },
+    {
+      "id": "bom-dia-43",
+      "path": "/stickers/bom dia/5.png",
+      "category": "bom-dia",
+      "name": "5",
+      "tags": [
+        "bom-dia",
+        "5"
+      ]
+    },
+    {
+      "id": "bom-dia-44",
+      "path": "/stickers/bom dia/50.png",
+      "category": "bom-dia",
+      "name": "50",
+      "tags": [
+        "bom-dia",
+        "50"
+      ]
+    },
+    {
+      "id": "bom-dia-45",
+      "path": "/stickers/bom dia/51.png",
+      "category": "bom-dia",
+      "name": "51",
+      "tags": [
+        "bom-dia",
+        "51"
+      ]
+    },
+    {
+      "id": "bom-dia-46",
+      "path": "/stickers/bom dia/52.png",
+      "category": "bom-dia",
+      "name": "52",
+      "tags": [
+        "bom-dia",
+        "52"
+      ]
+    },
+    {
+      "id": "bom-dia-47",
+      "path": "/stickers/bom dia/53.png",
+      "category": "bom-dia",
+      "name": "53",
+      "tags": [
+        "bom-dia",
+        "53"
+      ]
+    },
+    {
+      "id": "bom-dia-48",
+      "path": "/stickers/bom dia/54.png",
+      "category": "bom-dia",
+      "name": "54",
+      "tags": [
+        "bom-dia",
+        "54"
+      ]
+    },
+    {
+      "id": "bom-dia-49",
+      "path": "/stickers/bom dia/55.png",
+      "category": "bom-dia",
+      "name": "55",
+      "tags": [
+        "bom-dia",
+        "55"
+      ]
+    },
+    {
+      "id": "bom-dia-50",
+      "path": "/stickers/bom dia/56.png",
+      "category": "bom-dia",
+      "name": "56",
+      "tags": [
+        "bom-dia",
+        "56"
+      ]
+    },
+    {
+      "id": "bom-dia-51",
+      "path": "/stickers/bom dia/57.png",
+      "category": "bom-dia",
+      "name": "57",
+      "tags": [
+        "bom-dia",
+        "57"
+      ]
+    },
+    {
+      "id": "bom-dia-52",
+      "path": "/stickers/bom dia/58.png",
+      "category": "bom-dia",
+      "name": "58",
+      "tags": [
+        "bom-dia",
+        "58"
+      ]
+    },
+    {
+      "id": "bom-dia-53",
+      "path": "/stickers/bom dia/59.png",
+      "category": "bom-dia",
+      "name": "59",
+      "tags": [
+        "bom-dia",
+        "59"
+      ]
+    },
+    {
+      "id": "bom-dia-54",
+      "path": "/stickers/bom dia/60.png",
+      "category": "bom-dia",
+      "name": "60",
+      "tags": [
+        "bom-dia",
+        "60"
+      ]
+    },
+    {
+      "id": "bom-dia-55",
+      "path": "/stickers/bom dia/61.png",
+      "category": "bom-dia",
+      "name": "61",
+      "tags": [
+        "bom-dia",
+        "61"
+      ]
+    },
+    {
+      "id": "bom-dia-56",
+      "path": "/stickers/bom dia/62.png",
+      "category": "bom-dia",
+      "name": "62",
+      "tags": [
+        "bom-dia",
+        "62"
+      ]
+    },
+    {
+      "id": "bom-dia-57",
+      "path": "/stickers/bom dia/63.png",
+      "category": "bom-dia",
+      "name": "63",
+      "tags": [
+        "bom-dia",
+        "63"
+      ]
+    },
+    {
+      "id": "bom-dia-58",
+      "path": "/stickers/bom dia/64.png",
+      "category": "bom-dia",
+      "name": "64",
+      "tags": [
+        "bom-dia",
+        "64"
+      ]
+    },
+    {
+      "id": "bom-dia-59",
+      "path": "/stickers/bom dia/65.png",
+      "category": "bom-dia",
+      "name": "65",
+      "tags": [
+        "bom-dia",
+        "65"
+      ]
+    },
+    {
+      "id": "bom-dia-60",
+      "path": "/stickers/bom dia/67.png",
+      "category": "bom-dia",
+      "name": "67",
+      "tags": [
+        "bom-dia",
+        "67"
+      ]
+    },
+    {
+      "id": "bom-dia-61",
+      "path": "/stickers/bom dia/abençoado seja nosso dia].png",
+      "category": "bom-dia",
+      "name": "abençoado seja nosso dia]",
+      "tags": [
+        "bom-dia",
+        "abençoado",
+        "seja",
+        "nosso",
+        "dia]"
+      ]
+    },
+    {
+      "id": "bom-dia-62",
+      "path": "/stickers/bom dia/aquele bom dia.png",
+      "category": "bom-dia",
+      "name": "aquele bom dia",
+      "tags": [
+        "bom-dia",
+        "aquele",
+        "bom",
+        "dia"
+      ]
+    },
+    {
+      "id": "bom-dia-63",
+      "path": "/stickers/bom dia/BOM DIA - 1.png",
+      "category": "bom-dia",
+      "name": "BOM DIA - 1",
+      "tags": [
+        "bom-dia",
+        "bom",
+        "dia",
+        "1"
+      ]
+    },
+    {
+      "id": "bom-dia-64",
+      "path": "/stickers/bom dia/BOM DIA - 6.png",
+      "category": "bom-dia",
+      "name": "BOM DIA - 6",
+      "tags": [
+        "bom-dia",
+        "bom",
+        "dia",
+        "6"
+      ]
+    },
+    {
+      "id": "bom-dia-65",
+      "path": "/stickers/bom dia/BOM DIA - 9.png",
+      "category": "bom-dia",
+      "name": "BOM DIA - 9",
+      "tags": [
+        "bom-dia",
+        "bom",
+        "dia",
+        "9"
+      ]
+    },
+    {
+      "id": "bom-dia-66",
+      "path": "/stickers/bom dia/IMG_4268.PNG",
+      "category": "bom-dia",
+      "name": "IMG_4268",
+      "tags": [
+        "bom-dia",
+        "img",
+        "4268"
+      ]
+    },
+    {
+      "id": "bom-dia-67",
+      "path": "/stickers/bom dia/Inserir um título(1).png",
+      "category": "bom-dia",
+      "name": "Inserir um título(1)",
+      "tags": [
+        "bom-dia",
+        "inserir",
+        "um",
+        "título(1)"
+      ]
+    },
+    {
+      "id": "bom-dia-68",
+      "path": "/stickers/bom dia/Inserir um título(3).PNG",
+      "category": "bom-dia",
+      "name": "Inserir um título(3)",
+      "tags": [
+        "bom-dia",
+        "inserir",
+        "um",
+        "título(3)"
+      ]
+    },
+    {
+      "id": "extra-0",
+      "path": "/stickers/extra/100.png",
+      "category": "extra",
+      "name": "100",
+      "tags": [
+        "extra",
+        "100"
+      ]
+    },
+    {
+      "id": "extra-1",
+      "path": "/stickers/extra/110.png",
+      "category": "extra",
+      "name": "110",
+      "tags": [
+        "extra",
+        "110"
+      ]
+    },
+    {
+      "id": "extra-2",
+      "path": "/stickers/extra/111.png",
+      "category": "extra",
+      "name": "111",
+      "tags": [
+        "extra",
+        "111"
+      ]
+    },
+    {
+      "id": "extra-3",
+      "path": "/stickers/extra/113.png",
+      "category": "extra",
+      "name": "113",
+      "tags": [
+        "extra",
+        "113"
+      ]
+    },
+    {
+      "id": "extra-4",
+      "path": "/stickers/extra/115.png",
+      "category": "extra",
+      "name": "115",
+      "tags": [
+        "extra",
+        "115"
+      ]
+    },
+    {
+      "id": "extra-5",
+      "path": "/stickers/extra/116.png",
+      "category": "extra",
+      "name": "116",
+      "tags": [
+        "extra",
+        "116"
+      ]
+    },
+    {
+      "id": "extra-6",
+      "path": "/stickers/extra/117.png",
+      "category": "extra",
+      "name": "117",
+      "tags": [
+        "extra",
+        "117"
+      ]
+    },
+    {
+      "id": "extra-7",
+      "path": "/stickers/extra/118.png",
+      "category": "extra",
+      "name": "118",
+      "tags": [
+        "extra",
+        "118"
+      ]
+    },
+    {
+      "id": "extra-8",
+      "path": "/stickers/extra/119.png",
+      "category": "extra",
+      "name": "119",
+      "tags": [
+        "extra",
+        "119"
+      ]
+    },
+    {
+      "id": "extra-9",
+      "path": "/stickers/extra/121.png",
+      "category": "extra",
+      "name": "121",
+      "tags": [
+        "extra",
+        "121"
+      ]
+    },
+    {
+      "id": "extra-10",
+      "path": "/stickers/extra/122.png",
+      "category": "extra",
+      "name": "122",
+      "tags": [
+        "extra",
+        "122"
+      ]
+    },
+    {
+      "id": "extra-11",
+      "path": "/stickers/extra/125.png",
+      "category": "extra",
+      "name": "125",
+      "tags": [
+        "extra",
+        "125"
+      ]
+    },
+    {
+      "id": "extra-12",
+      "path": "/stickers/extra/126.png",
+      "category": "extra",
+      "name": "126",
+      "tags": [
+        "extra",
+        "126"
+      ]
+    },
+    {
+      "id": "extra-13",
+      "path": "/stickers/extra/129.png",
+      "category": "extra",
+      "name": "129",
+      "tags": [
+        "extra",
+        "129"
+      ]
+    },
+    {
+      "id": "extra-14",
+      "path": "/stickers/extra/130.png",
+      "category": "extra",
+      "name": "130",
+      "tags": [
+        "extra",
+        "130"
+      ]
+    },
+    {
+      "id": "extra-15",
+      "path": "/stickers/extra/133.png",
+      "category": "extra",
+      "name": "133",
+      "tags": [
+        "extra",
+        "133"
+      ]
+    },
+    {
+      "id": "extra-16",
+      "path": "/stickers/extra/135.png",
+      "category": "extra",
+      "name": "135",
+      "tags": [
+        "extra",
+        "135"
+      ]
+    },
+    {
+      "id": "extra-17",
+      "path": "/stickers/extra/138.png",
+      "category": "extra",
+      "name": "138",
+      "tags": [
+        "extra",
+        "138"
+      ]
+    },
+    {
+      "id": "extra-18",
+      "path": "/stickers/extra/139.png",
+      "category": "extra",
+      "name": "139",
+      "tags": [
+        "extra",
+        "139"
+      ]
+    },
+    {
+      "id": "extra-19",
+      "path": "/stickers/extra/140.png",
+      "category": "extra",
+      "name": "140",
+      "tags": [
+        "extra",
+        "140"
+      ]
+    },
+    {
+      "id": "extra-20",
+      "path": "/stickers/extra/141.png",
+      "category": "extra",
+      "name": "141",
+      "tags": [
+        "extra",
+        "141"
+      ]
+    },
+    {
+      "id": "extra-21",
+      "path": "/stickers/extra/142.png",
+      "category": "extra",
+      "name": "142",
+      "tags": [
+        "extra",
+        "142"
+      ]
+    },
+    {
+      "id": "extra-22",
+      "path": "/stickers/extra/143.png",
+      "category": "extra",
+      "name": "143",
+      "tags": [
+        "extra",
+        "143"
+      ]
+    },
+    {
+      "id": "extra-23",
+      "path": "/stickers/extra/144.png",
+      "category": "extra",
+      "name": "144",
+      "tags": [
+        "extra",
+        "144"
+      ]
+    },
+    {
+      "id": "extra-24",
+      "path": "/stickers/extra/146.png",
+      "category": "extra",
+      "name": "146",
+      "tags": [
+        "extra",
+        "146"
+      ]
+    },
+    {
+      "id": "extra-25",
+      "path": "/stickers/extra/147.png",
+      "category": "extra",
+      "name": "147",
+      "tags": [
+        "extra",
+        "147"
+      ]
+    },
+    {
+      "id": "extra-26",
+      "path": "/stickers/extra/148.png",
+      "category": "extra",
+      "name": "148",
+      "tags": [
+        "extra",
+        "148"
+      ]
+    },
+    {
+      "id": "extra-27",
+      "path": "/stickers/extra/149.png",
+      "category": "extra",
+      "name": "149",
+      "tags": [
+        "extra",
+        "149"
+      ]
+    },
+    {
+      "id": "extra-28",
+      "path": "/stickers/extra/150.png",
+      "category": "extra",
+      "name": "150",
+      "tags": [
+        "extra",
+        "150"
+      ]
+    },
+    {
+      "id": "extra-29",
+      "path": "/stickers/extra/151.png",
+      "category": "extra",
+      "name": "151",
+      "tags": [
+        "extra",
+        "151"
+      ]
+    },
+    {
+      "id": "extra-30",
+      "path": "/stickers/extra/152.png",
+      "category": "extra",
+      "name": "152",
+      "tags": [
+        "extra",
+        "152"
+      ]
+    },
+    {
+      "id": "extra-31",
+      "path": "/stickers/extra/153.png",
+      "category": "extra",
+      "name": "153",
+      "tags": [
+        "extra",
+        "153"
+      ]
+    },
+    {
+      "id": "extra-32",
+      "path": "/stickers/extra/155.png",
+      "category": "extra",
+      "name": "155",
+      "tags": [
+        "extra",
+        "155"
+      ]
+    },
+    {
+      "id": "extra-33",
+      "path": "/stickers/extra/166.png",
+      "category": "extra",
+      "name": "166",
+      "tags": [
+        "extra",
+        "166"
+      ]
+    },
+    {
+      "id": "extra-34",
+      "path": "/stickers/extra/167.png",
+      "category": "extra",
+      "name": "167",
+      "tags": [
+        "extra",
+        "167"
+      ]
+    },
+    {
+      "id": "extra-35",
+      "path": "/stickers/extra/168.png",
+      "category": "extra",
+      "name": "168",
+      "tags": [
+        "extra",
+        "168"
+      ]
+    },
+    {
+      "id": "extra-36",
+      "path": "/stickers/extra/169.png",
+      "category": "extra",
+      "name": "169",
+      "tags": [
+        "extra",
+        "169"
+      ]
+    },
+    {
+      "id": "extra-37",
+      "path": "/stickers/extra/83.png",
+      "category": "extra",
+      "name": "83",
+      "tags": [
+        "extra",
+        "83"
+      ]
+    },
+    {
+      "id": "extra-38",
+      "path": "/stickers/extra/86.png",
+      "category": "extra",
+      "name": "86",
+      "tags": [
+        "extra",
+        "86"
+      ]
+    },
+    {
+      "id": "extra-39",
+      "path": "/stickers/extra/90.png",
+      "category": "extra",
+      "name": "90",
+      "tags": [
+        "extra",
+        "90"
+      ]
+    },
+    {
+      "id": "extra-40",
+      "path": "/stickers/extra/92.png",
+      "category": "extra",
+      "name": "92",
+      "tags": [
+        "extra",
+        "92"
+      ]
+    },
+    {
+      "id": "extra-41",
+      "path": "/stickers/extra/94.png",
+      "category": "extra",
+      "name": "94",
+      "tags": [
+        "extra",
+        "94"
+      ]
+    },
+    {
+      "id": "extra-42",
+      "path": "/stickers/extra/95.png",
+      "category": "extra",
+      "name": "95",
+      "tags": [
+        "extra",
+        "95"
+      ]
+    },
+    {
+      "id": "extra-43",
+      "path": "/stickers/extra/97.png",
+      "category": "extra",
+      "name": "97",
+      "tags": [
+        "extra",
+        "97"
+      ]
+    },
+    {
+      "id": "extra-44",
+      "path": "/stickers/extra/BOA BOA-.png",
+      "category": "extra",
+      "name": "BOA BOA-",
+      "tags": [
+        "extra",
+        "boa",
+        "boa"
+      ]
+    },
+    {
+      "id": "extra-45",
+      "path": "/stickers/extra/BOA BOA.png",
+      "category": "extra",
+      "name": "BOA BOA",
+      "tags": [
+        "extra",
+        "boa",
+        "boa"
+      ]
+    },
+    {
+      "id": "extra-46",
+      "path": "/stickers/extra/boa pra nos 1.png",
+      "category": "extra",
+      "name": "boa pra nos 1",
+      "tags": [
+        "extra",
+        "boa",
+        "pra",
+        "nos",
+        "1"
+      ]
+    },
+    {
+      "id": "extra-47",
+      "path": "/stickers/extra/boa pra nos 2.png",
+      "category": "extra",
+      "name": "boa pra nos 2",
+      "tags": [
+        "extra",
+        "boa",
+        "pra",
+        "nos",
+        "2"
+      ]
+    },
+    {
+      "id": "extra-48",
+      "path": "/stickers/extra/boa pra nos 3.png",
+      "category": "extra",
+      "name": "boa pra nos 3",
+      "tags": [
+        "extra",
+        "boa",
+        "pra",
+        "nos",
+        "3"
+      ]
+    },
+    {
+      "id": "extra-49",
+      "path": "/stickers/extra/boa pra nos 4.png",
+      "category": "extra",
+      "name": "boa pra nos 4",
+      "tags": [
+        "extra",
+        "boa",
+        "pra",
+        "nos",
+        "4"
+      ]
+    },
+    {
+      "id": "extra-50",
+      "path": "/stickers/extra/BOABOA--.png",
+      "category": "extra",
+      "name": "BOABOA--",
+      "tags": [
+        "extra",
+        "boaboa"
+      ]
+    },
+    {
+      "id": "extra-51",
+      "path": "/stickers/extra/midia 01.png",
+      "category": "extra",
+      "name": "midia 01",
+      "tags": [
+        "extra",
+        "midia",
+        "01"
+      ]
+    },
+    {
+      "id": "extra-52",
+      "path": "/stickers/extra/midia 02.png",
+      "category": "extra",
+      "name": "midia 02",
+      "tags": [
+        "extra",
+        "midia",
+        "02"
+      ]
+    },
+    {
+      "id": "extra-53",
+      "path": "/stickers/extra/midia nova.png",
+      "category": "extra",
+      "name": "midia nova",
+      "tags": [
+        "extra",
+        "midia",
+        "nova"
+      ]
+    },
+    {
+      "id": "extra-54",
+      "path": "/stickers/extra/original-.png",
+      "category": "extra",
+      "name": "original-",
+      "tags": [
+        "extra",
+        "original"
+      ]
+    },
+    {
+      "id": "figurinhas-0",
+      "path": "/stickers/figurinhas/244original.png",
+      "category": "figurinhas",
+      "name": "244original",
+      "tags": [
+        "figurinhas",
+        "244original"
+      ]
+    },
+    {
+      "id": "figurinhas-1",
+      "path": "/stickers/figurinhas/aqueleboatardeprageral.png",
+      "category": "figurinhas",
+      "name": "aqueleboatardeprageral",
+      "tags": [
+        "figurinhas",
+        "aqueleboatardeprageral"
+      ]
+    },
+    {
+      "id": "figurinhas-2",
+      "path": "/stickers/figurinhas/aqueleboatardeprageral2.png",
+      "category": "figurinhas",
+      "name": "aqueleboatardeprageral2",
+      "tags": [
+        "figurinhas",
+        "aqueleboatardeprageral2"
+      ]
+    },
+    {
+      "id": "figurinhas-3",
+      "path": "/stickers/figurinhas/arteproibida.png",
+      "category": "figurinhas",
+      "name": "arteproibida",
+      "tags": [
+        "figurinhas",
+        "arteproibida"
+      ]
+    },
+    {
+      "id": "figurinhas-4",
+      "path": "/stickers/figurinhas/boaboa.png",
+      "category": "figurinhas",
+      "name": "boaboa",
+      "tags": [
+        "figurinhas",
+        "boaboa"
+      ]
+    },
+    {
+      "id": "figurinhas-5",
+      "path": "/stickers/figurinhas/boasegundafeira.png",
+      "category": "figurinhas",
+      "name": "boasegundafeira",
+      "tags": [
+        "figurinhas",
+        "boasegundafeira"
+      ]
+    },
+    {
+      "id": "figurinhas-6",
+      "path": "/stickers/figurinhas/boatardeotimatardeprageral.png",
+      "category": "figurinhas",
+      "name": "boatardeotimatardeprageral",
+      "tags": [
+        "figurinhas",
+        "boatardeotimatardeprageral"
+      ]
+    },
+    {
+      "id": "figurinhas-7",
+      "path": "/stickers/figurinhas/boatardeprageralfe.png",
+      "category": "figurinhas",
+      "name": "boatardeprageralfe",
+      "tags": [
+        "figurinhas",
+        "boatardeprageralfe"
+      ]
+    },
+    {
+      "id": "figurinhas-8",
+      "path": "/stickers/figurinhas/bomdiacomjesus.png",
+      "category": "figurinhas",
+      "name": "bomdiacomjesus",
+      "tags": [
+        "figurinhas",
+        "bomdiacomjesus"
+      ]
+    },
+    {
+      "id": "figurinhas-9",
+      "path": "/stickers/figurinhas/bomdiacomjesus2.png",
+      "category": "figurinhas",
+      "name": "bomdiacomjesus2",
+      "tags": [
+        "figurinhas",
+        "bomdiacomjesus2"
+      ]
+    },
+    {
+      "id": "figurinhas-10",
+      "path": "/stickers/figurinhas/bomdiapranoiis.png",
+      "category": "figurinhas",
+      "name": "bomdiapranoiis",
+      "tags": [
+        "figurinhas",
+        "bomdiapranoiis"
+      ]
+    },
+    {
+      "id": "figurinhas-11",
+      "path": "/stickers/figurinhas/bomdiapranoiis2.png",
+      "category": "figurinhas",
+      "name": "bomdiapranoiis2",
+      "tags": [
+        "figurinhas",
+        "bomdiapranoiis2"
+      ]
+    },
+    {
+      "id": "figurinhas-12",
+      "path": "/stickers/figurinhas/credoze.png",
+      "category": "figurinhas",
+      "name": "credoze",
+      "tags": [
+        "figurinhas",
+        "credoze"
+      ]
+    },
+    {
+      "id": "figurinhas-13",
+      "path": "/stickers/figurinhas/curtecomendaecompartilha2.png",
+      "category": "figurinhas",
+      "name": "curtecomendaecompartilha2",
+      "tags": [
+        "figurinhas",
+        "curtecomendaecompartilha2"
+      ]
+    },
+    {
+      "id": "figurinhas-14",
+      "path": "/stickers/figurinhas/curtecomentaecompartilha.png",
+      "category": "figurinhas",
+      "name": "curtecomentaecompartilha",
+      "tags": [
+        "figurinhas",
+        "curtecomentaecompartilha"
+      ]
+    },
+    {
+      "id": "figurinhas-15",
+      "path": "/stickers/figurinhas/deured.png",
+      "category": "figurinhas",
+      "name": "deured",
+      "tags": [
+        "figurinhas",
+        "deured"
+      ]
+    },
+    {
+      "id": "figurinhas-16",
+      "path": "/stickers/figurinhas/domingrau.png",
+      "category": "figurinhas",
+      "name": "domingrau",
+      "tags": [
+        "figurinhas",
+        "domingrau"
+      ]
+    },
+    {
+      "id": "figurinhas-17",
+      "path": "/stickers/figurinhas/eosguri.png",
+      "category": "figurinhas",
+      "name": "eosguri",
+      "tags": [
+        "figurinhas",
+        "eosguri"
+      ]
+    },
+    {
+      "id": "figurinhas-18",
+      "path": "/stickers/figurinhas/eosguri2.png",
+      "category": "figurinhas",
+      "name": "eosguri2",
+      "tags": [
+        "figurinhas",
+        "eosguri2"
+      ]
+    },
+    {
+      "id": "figurinhas-19",
+      "path": "/stickers/figurinhas/esquece.png",
+      "category": "figurinhas",
+      "name": "esquece",
+      "tags": [
+        "figurinhas",
+        "esquece"
+      ]
+    },
+    {
+      "id": "figurinhas-20",
+      "path": "/stickers/figurinhas/grauearte.png",
+      "category": "figurinhas",
+      "name": "grauearte",
+      "tags": [
+        "figurinhas",
+        "grauearte"
+      ]
+    },
+    {
+      "id": "figurinhas-21",
+      "path": "/stickers/figurinhas/hahaha.png",
+      "category": "figurinhas",
+      "name": "hahaha",
+      "tags": [
+        "figurinhas",
+        "hahaha"
+      ]
+    },
+    {
+      "id": "figurinhas-22",
+      "path": "/stickers/figurinhas/marchanostrampos.png",
+      "category": "figurinhas",
+      "name": "marchanostrampos",
+      "tags": [
+        "figurinhas",
+        "marchanostrampos"
+      ]
+    },
+    {
+      "id": "figurinhas-23",
+      "path": "/stickers/figurinhas/muitolouco.png",
+      "category": "figurinhas",
+      "name": "muitolouco",
+      "tags": [
+        "figurinhas",
+        "muitolouco"
+      ]
+    },
+    {
+      "id": "figurinhas-24",
+      "path": "/stickers/figurinhas/navelavadaagorasocurtirorole.png",
+      "category": "figurinhas",
+      "name": "navelavadaagorasocurtirorole",
+      "tags": [
+        "figurinhas",
+        "navelavadaagorasocurtirorole"
+      ]
+    },
+    {
+      "id": "figurinhas-25",
+      "path": "/stickers/figurinhas/original.png",
+      "category": "figurinhas",
+      "name": "original",
+      "tags": [
+        "figurinhas",
+        "original"
+      ]
+    },
+    {
+      "id": "figurinhas-26",
+      "path": "/stickers/figurinhas/pede-ifood.png",
+      "category": "figurinhas",
+      "name": "pede-ifood",
+      "tags": [
+        "figurinhas",
+        "pede",
+        "ifood"
+      ]
+    },
+    {
+      "id": "figurinhas-27",
+      "path": "/stickers/figurinhas/pedeifoodkkk.png",
+      "category": "figurinhas",
+      "name": "pedeifoodkkk",
+      "tags": [
+        "figurinhas",
+        "pedeifoodkkk"
+      ]
+    },
+    {
+      "id": "figurinhas-28",
+      "path": "/stickers/figurinhas/procedimento.png",
+      "category": "figurinhas",
+      "name": "procedimento",
+      "tags": [
+        "figurinhas",
+        "procedimento"
+      ]
+    },
+    {
+      "id": "figurinhas-29",
+      "path": "/stickers/figurinhas/reagemuitoessestory.png",
+      "category": "figurinhas",
+      "name": "reagemuitoessestory",
+      "tags": [
+        "figurinhas",
+        "reagemuitoessestory"
+      ]
+    },
+    {
+      "id": "insta-metas-0",
+      "path": "/stickers/INSTA- METAS/IMG_4097.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4097",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4097"
+      ]
+    },
+    {
+      "id": "insta-metas-1",
+      "path": "/stickers/INSTA- METAS/IMG_4099.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4099",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4099"
+      ]
+    },
+    {
+      "id": "insta-metas-2",
+      "path": "/stickers/INSTA- METAS/IMG_4101.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4101",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4101"
+      ]
+    },
+    {
+      "id": "insta-metas-3",
+      "path": "/stickers/INSTA- METAS/IMG_4102.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4102",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4102"
+      ]
+    },
+    {
+      "id": "insta-metas-4",
+      "path": "/stickers/INSTA- METAS/IMG_4103.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4103",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4103"
+      ]
+    },
+    {
+      "id": "insta-metas-5",
+      "path": "/stickers/INSTA- METAS/IMG_4104.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4104",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4104"
+      ]
+    },
+    {
+      "id": "insta-metas-6",
+      "path": "/stickers/INSTA- METAS/IMG_4105.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4105",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4105"
+      ]
+    },
+    {
+      "id": "insta-metas-7",
+      "path": "/stickers/INSTA- METAS/IMG_4106.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4106",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4106"
+      ]
+    },
+    {
+      "id": "insta-metas-8",
+      "path": "/stickers/INSTA- METAS/IMG_4107.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4107",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4107"
+      ]
+    },
+    {
+      "id": "insta-metas-9",
+      "path": "/stickers/INSTA- METAS/IMG_4108.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4108",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4108"
+      ]
+    },
+    {
+      "id": "insta-metas-10",
+      "path": "/stickers/INSTA- METAS/IMG_4109.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4109",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4109"
+      ]
+    },
+    {
+      "id": "insta-metas-11",
+      "path": "/stickers/INSTA- METAS/IMG_4110.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4110",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4110"
+      ]
+    },
+    {
+      "id": "insta-metas-12",
+      "path": "/stickers/INSTA- METAS/IMG_4111.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4111",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4111"
+      ]
+    },
+    {
+      "id": "insta-metas-13",
+      "path": "/stickers/INSTA- METAS/IMG_4112.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4112",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4112"
+      ]
+    },
+    {
+      "id": "insta-metas-14",
+      "path": "/stickers/INSTA- METAS/IMG_4113.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4113",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4113"
+      ]
+    },
+    {
+      "id": "insta-metas-15",
+      "path": "/stickers/INSTA- METAS/IMG_4114.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4114",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4114"
+      ]
+    },
+    {
+      "id": "insta-metas-16",
+      "path": "/stickers/INSTA- METAS/IMG_4115.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4115",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4115"
+      ]
+    },
+    {
+      "id": "insta-metas-17",
+      "path": "/stickers/INSTA- METAS/IMG_4116.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4116",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4116"
+      ]
+    },
+    {
+      "id": "insta-metas-18",
+      "path": "/stickers/INSTA- METAS/IMG_4117.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4117",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4117"
+      ]
+    },
+    {
+      "id": "insta-metas-19",
+      "path": "/stickers/INSTA- METAS/IMG_4118.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4118",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4118"
+      ]
+    },
+    {
+      "id": "insta-metas-20",
+      "path": "/stickers/INSTA- METAS/IMG_4119.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4119",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4119"
+      ]
+    },
+    {
+      "id": "insta-metas-21",
+      "path": "/stickers/INSTA- METAS/IMG_4120.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4120",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4120"
+      ]
+    },
+    {
+      "id": "insta-metas-22",
+      "path": "/stickers/INSTA- METAS/IMG_4121.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4121",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4121"
+      ]
+    },
+    {
+      "id": "insta-metas-23",
+      "path": "/stickers/INSTA- METAS/IMG_4122.PNG",
+      "category": "insta-metas",
+      "name": "IMG_4122",
+      "tags": [
+        "insta-metas",
+        "img",
+        "4122"
+      ]
+    },
+    {
+      "id": "interativos-0",
+      "path": "/stickers/INTERATIVOS/102.png",
+      "category": "interativos",
+      "name": "102",
+      "tags": [
+        "interativos",
+        "102"
+      ]
+    },
+    {
+      "id": "interativos-1",
+      "path": "/stickers/INTERATIVOS/105.png",
+      "category": "interativos",
+      "name": "105",
+      "tags": [
+        "interativos",
+        "105"
+      ]
+    },
+    {
+      "id": "interativos-2",
+      "path": "/stickers/INTERATIVOS/107.png",
+      "category": "interativos",
+      "name": "107",
+      "tags": [
+        "interativos",
+        "107"
+      ]
+    },
+    {
+      "id": "interativos-3",
+      "path": "/stickers/INTERATIVOS/110.png",
+      "category": "interativos",
+      "name": "110",
+      "tags": [
+        "interativos",
+        "110"
+      ]
+    },
+    {
+      "id": "interativos-4",
+      "path": "/stickers/INTERATIVOS/111.png",
+      "category": "interativos",
+      "name": "111",
+      "tags": [
+        "interativos",
+        "111"
+      ]
+    },
+    {
+      "id": "interativos-5",
+      "path": "/stickers/INTERATIVOS/14.png",
+      "category": "interativos",
+      "name": "14",
+      "tags": [
+        "interativos",
+        "14"
+      ]
+    },
+    {
+      "id": "interativos-6",
+      "path": "/stickers/INTERATIVOS/16.png",
+      "category": "interativos",
+      "name": "16",
+      "tags": [
+        "interativos",
+        "16"
+      ]
+    },
+    {
+      "id": "interativos-7",
+      "path": "/stickers/INTERATIVOS/19.png",
+      "category": "interativos",
+      "name": "19",
+      "tags": [
+        "interativos",
+        "19"
+      ]
+    },
+    {
+      "id": "interativos-8",
+      "path": "/stickers/INTERATIVOS/22.png",
+      "category": "interativos",
+      "name": "22",
+      "tags": [
+        "interativos",
+        "22"
+      ]
+    },
+    {
+      "id": "interativos-9",
+      "path": "/stickers/INTERATIVOS/244 nato.png",
+      "category": "interativos",
+      "name": "244 nato",
+      "tags": [
+        "interativos",
+        "244",
+        "nato"
+      ]
+    },
+    {
+      "id": "interativos-10",
+      "path": "/stickers/INTERATIVOS/244 ORIGINAL.png",
+      "category": "interativos",
+      "name": "244 ORIGINAL",
+      "tags": [
+        "interativos",
+        "244",
+        "original"
+      ]
+    },
+    {
+      "id": "interativos-11",
+      "path": "/stickers/INTERATIVOS/3.png",
+      "category": "interativos",
+      "name": "3",
+      "tags": [
+        "interativos",
+        "3"
+      ]
+    },
+    {
+      "id": "interativos-12",
+      "path": "/stickers/INTERATIVOS/30.png",
+      "category": "interativos",
+      "name": "30",
+      "tags": [
+        "interativos",
+        "30"
+      ]
+    },
+    {
+      "id": "interativos-13",
+      "path": "/stickers/INTERATIVOS/32.png",
+      "category": "interativos",
+      "name": "32",
+      "tags": [
+        "interativos",
+        "32"
+      ]
+    },
+    {
+      "id": "interativos-14",
+      "path": "/stickers/INTERATIVOS/35.png",
+      "category": "interativos",
+      "name": "35",
+      "tags": [
+        "interativos",
+        "35"
+      ]
+    },
+    {
+      "id": "interativos-15",
+      "path": "/stickers/INTERATIVOS/37.png",
+      "category": "interativos",
+      "name": "37",
+      "tags": [
+        "interativos",
+        "37"
+      ]
+    },
+    {
+      "id": "interativos-16",
+      "path": "/stickers/INTERATIVOS/38.png",
+      "category": "interativos",
+      "name": "38",
+      "tags": [
+        "interativos",
+        "38"
+      ]
+    },
+    {
+      "id": "interativos-17",
+      "path": "/stickers/INTERATIVOS/4.png",
+      "category": "interativos",
+      "name": "4",
+      "tags": [
+        "interativos",
+        "4"
+      ]
+    },
+    {
+      "id": "interativos-18",
+      "path": "/stickers/INTERATIVOS/5.png",
+      "category": "interativos",
+      "name": "5",
+      "tags": [
+        "interativos",
+        "5"
+      ]
+    },
+    {
+      "id": "interativos-19",
+      "path": "/stickers/INTERATIVOS/52.png",
+      "category": "interativos",
+      "name": "52",
+      "tags": [
+        "interativos",
+        "52"
+      ]
+    },
+    {
+      "id": "interativos-20",
+      "path": "/stickers/INTERATIVOS/55.png",
+      "category": "interativos",
+      "name": "55",
+      "tags": [
+        "interativos",
+        "55"
+      ]
+    },
+    {
+      "id": "interativos-21",
+      "path": "/stickers/INTERATIVOS/6.png",
+      "category": "interativos",
+      "name": "6",
+      "tags": [
+        "interativos",
+        "6"
+      ]
+    },
+    {
+      "id": "interativos-22",
+      "path": "/stickers/INTERATIVOS/61.png",
+      "category": "interativos",
+      "name": "61",
+      "tags": [
+        "interativos",
+        "61"
+      ]
+    },
+    {
+      "id": "interativos-23",
+      "path": "/stickers/INTERATIVOS/63.png",
+      "category": "interativos",
+      "name": "63",
+      "tags": [
+        "interativos",
+        "63"
+      ]
+    },
+    {
+      "id": "interativos-24",
+      "path": "/stickers/INTERATIVOS/64.png",
+      "category": "interativos",
+      "name": "64",
+      "tags": [
+        "interativos",
+        "64"
+      ]
+    },
+    {
+      "id": "interativos-25",
+      "path": "/stickers/INTERATIVOS/65.png",
+      "category": "interativos",
+      "name": "65",
+      "tags": [
+        "interativos",
+        "65"
+      ]
+    },
+    {
+      "id": "interativos-26",
+      "path": "/stickers/INTERATIVOS/66.png",
+      "category": "interativos",
+      "name": "66",
+      "tags": [
+        "interativos",
+        "66"
+      ]
+    },
+    {
+      "id": "interativos-27",
+      "path": "/stickers/INTERATIVOS/67.png",
+      "category": "interativos",
+      "name": "67",
+      "tags": [
+        "interativos",
+        "67"
+      ]
+    },
+    {
+      "id": "interativos-28",
+      "path": "/stickers/INTERATIVOS/68.png",
+      "category": "interativos",
+      "name": "68",
+      "tags": [
+        "interativos",
+        "68"
+      ]
+    },
+    {
+      "id": "interativos-29",
+      "path": "/stickers/INTERATIVOS/71.png",
+      "category": "interativos",
+      "name": "71",
+      "tags": [
+        "interativos",
+        "71"
+      ]
+    },
+    {
+      "id": "interativos-30",
+      "path": "/stickers/INTERATIVOS/74.png",
+      "category": "interativos",
+      "name": "74",
+      "tags": [
+        "interativos",
+        "74"
+      ]
+    },
+    {
+      "id": "interativos-31",
+      "path": "/stickers/INTERATIVOS/79.png",
+      "category": "interativos",
+      "name": "79",
+      "tags": [
+        "interativos",
+        "79"
+      ]
+    },
+    {
+      "id": "interativos-32",
+      "path": "/stickers/INTERATIVOS/84.png",
+      "category": "interativos",
+      "name": "84",
+      "tags": [
+        "interativos",
+        "84"
+      ]
+    },
+    {
+      "id": "interativos-33",
+      "path": "/stickers/INTERATIVOS/87.png",
+      "category": "interativos",
+      "name": "87",
+      "tags": [
+        "interativos",
+        "87"
+      ]
+    },
+    {
+      "id": "interativos-34",
+      "path": "/stickers/INTERATIVOS/88.png",
+      "category": "interativos",
+      "name": "88",
+      "tags": [
+        "interativos",
+        "88"
+      ]
+    },
+    {
+      "id": "interativos-35",
+      "path": "/stickers/INTERATIVOS/89.png",
+      "category": "interativos",
+      "name": "89",
+      "tags": [
+        "interativos",
+        "89"
+      ]
+    },
+    {
+      "id": "interativos-36",
+      "path": "/stickers/INTERATIVOS/90.png",
+      "category": "interativos",
+      "name": "90",
+      "tags": [
+        "interativos",
+        "90"
+      ]
+    },
+    {
+      "id": "interativos-37",
+      "path": "/stickers/INTERATIVOS/91.png",
+      "category": "interativos",
+      "name": "91",
+      "tags": [
+        "interativos",
+        "91"
+      ]
+    },
+    {
+      "id": "interativos-38",
+      "path": "/stickers/INTERATIVOS/92.png",
+      "category": "interativos",
+      "name": "92",
+      "tags": [
+        "interativos",
+        "92"
+      ]
+    },
+    {
+      "id": "interativos-39",
+      "path": "/stickers/INTERATIVOS/96.png",
+      "category": "interativos",
+      "name": "96",
+      "tags": [
+        "interativos",
+        "96"
+      ]
+    },
+    {
+      "id": "interativos-40",
+      "path": "/stickers/INTERATIVOS/97.png",
+      "category": "interativos",
+      "name": "97",
+      "tags": [
+        "interativos",
+        "97"
+      ]
+    },
+    {
+      "id": "interativos-41",
+      "path": "/stickers/INTERATIVOS/98.png",
+      "category": "interativos",
+      "name": "98",
+      "tags": [
+        "interativos",
+        "98"
+      ]
+    },
+    {
+      "id": "interativos-42",
+      "path": "/stickers/INTERATIVOS/aquele boa noite.png",
+      "category": "interativos",
+      "name": "aquele boa noite",
+      "tags": [
+        "interativos",
+        "aquele",
+        "boa",
+        "noite"
+      ]
+    },
+    {
+      "id": "interativos-43",
+      "path": "/stickers/INTERATIVOS/aquele bom dia.png",
+      "category": "interativos",
+      "name": "aquele bom dia",
+      "tags": [
+        "interativos",
+        "aquele",
+        "bom",
+        "dia"
+      ]
+    },
+    {
+      "id": "interativos-44",
+      "path": "/stickers/INTERATIVOS/atras das notas x2.png",
+      "category": "interativos",
+      "name": "atras das notas x2",
+      "tags": [
+        "interativos",
+        "atras",
+        "das",
+        "notas",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-45",
+      "path": "/stickers/INTERATIVOS/atras das notas.png",
+      "category": "interativos",
+      "name": "atras das notas",
+      "tags": [
+        "interativos",
+        "atras",
+        "das",
+        "notas"
+      ]
+    },
+    {
+      "id": "interativos-46",
+      "path": "/stickers/INTERATIVOS/BOA BOA HOJE E DOMINGRAU X2.png",
+      "category": "interativos",
+      "name": "BOA BOA HOJE E DOMINGRAU X2",
+      "tags": [
+        "interativos",
+        "boa",
+        "boa",
+        "hoje",
+        "e",
+        "domingrau",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-47",
+      "path": "/stickers/INTERATIVOS/BOA BOA HOJE E DOMINGRAU.png",
+      "category": "interativos",
+      "name": "BOA BOA HOJE E DOMINGRAU",
+      "tags": [
+        "interativos",
+        "boa",
+        "boa",
+        "hoje",
+        "e",
+        "domingrau"
+      ]
+    },
+    {
+      "id": "interativos-48",
+      "path": "/stickers/INTERATIVOS/boa noite x2.png",
+      "category": "interativos",
+      "name": "boa noite x2",
+      "tags": [
+        "interativos",
+        "boa",
+        "noite",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-49",
+      "path": "/stickers/INTERATIVOS/boa noite x3.png",
+      "category": "interativos",
+      "name": "boa noite x3",
+      "tags": [
+        "interativos",
+        "boa",
+        "noite",
+        "x3"
+      ]
+    },
+    {
+      "id": "interativos-50",
+      "path": "/stickers/INTERATIVOS/boa noite.png",
+      "category": "interativos",
+      "name": "boa noite",
+      "tags": [
+        "interativos",
+        "boa",
+        "noite"
+      ]
+    },
+    {
+      "id": "interativos-51",
+      "path": "/stickers/INTERATIVOS/bom dia quadrilha x2.png",
+      "category": "interativos",
+      "name": "bom dia quadrilha x2",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "quadrilha",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-52",
+      "path": "/stickers/INTERATIVOS/bom dia quadrilha x3.png",
+      "category": "interativos",
+      "name": "bom dia quadrilha x3",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "quadrilha",
+        "x3"
+      ]
+    },
+    {
+      "id": "interativos-53",
+      "path": "/stickers/INTERATIVOS/bom dia quadrilha x4.png",
+      "category": "interativos",
+      "name": "bom dia quadrilha x4",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "quadrilha",
+        "x4"
+      ]
+    },
+    {
+      "id": "interativos-54",
+      "path": "/stickers/INTERATIVOS/bom dia quadrilha.png",
+      "category": "interativos",
+      "name": "bom dia quadrilha",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "quadrilha"
+      ]
+    },
+    {
+      "id": "interativos-55",
+      "path": "/stickers/INTERATIVOS/BOM DIA x10.png",
+      "category": "interativos",
+      "name": "BOM DIA x10",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x10"
+      ]
+    },
+    {
+      "id": "interativos-56",
+      "path": "/stickers/INTERATIVOS/BOM DIA x11.png",
+      "category": "interativos",
+      "name": "BOM DIA x11",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x11"
+      ]
+    },
+    {
+      "id": "interativos-57",
+      "path": "/stickers/INTERATIVOS/BOM DIA x12.png",
+      "category": "interativos",
+      "name": "BOM DIA x12",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x12"
+      ]
+    },
+    {
+      "id": "interativos-58",
+      "path": "/stickers/INTERATIVOS/BOM DIA x13.png",
+      "category": "interativos",
+      "name": "BOM DIA x13",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x13"
+      ]
+    },
+    {
+      "id": "interativos-59",
+      "path": "/stickers/INTERATIVOS/BOM DIA x14.png",
+      "category": "interativos",
+      "name": "BOM DIA x14",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x14"
+      ]
+    },
+    {
+      "id": "interativos-60",
+      "path": "/stickers/INTERATIVOS/BOM DIA x2.png",
+      "category": "interativos",
+      "name": "BOM DIA x2",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-61",
+      "path": "/stickers/INTERATIVOS/BOM DIA x3.png",
+      "category": "interativos",
+      "name": "BOM DIA x3",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x3"
+      ]
+    },
+    {
+      "id": "interativos-62",
+      "path": "/stickers/INTERATIVOS/BOM DIA x4.png",
+      "category": "interativos",
+      "name": "BOM DIA x4",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x4"
+      ]
+    },
+    {
+      "id": "interativos-63",
+      "path": "/stickers/INTERATIVOS/BOM DIA X5.png",
+      "category": "interativos",
+      "name": "BOM DIA X5",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x5"
+      ]
+    },
+    {
+      "id": "interativos-64",
+      "path": "/stickers/INTERATIVOS/BOM DIA X6.png",
+      "category": "interativos",
+      "name": "BOM DIA X6",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x6"
+      ]
+    },
+    {
+      "id": "interativos-65",
+      "path": "/stickers/INTERATIVOS/BOM DIA X7.png",
+      "category": "interativos",
+      "name": "BOM DIA X7",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x7"
+      ]
+    },
+    {
+      "id": "interativos-66",
+      "path": "/stickers/INTERATIVOS/BOM DIA x8.png",
+      "category": "interativos",
+      "name": "BOM DIA x8",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x8"
+      ]
+    },
+    {
+      "id": "interativos-67",
+      "path": "/stickers/INTERATIVOS/BOM DIA x9.png",
+      "category": "interativos",
+      "name": "BOM DIA x9",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia",
+        "x9"
+      ]
+    },
+    {
+      "id": "interativos-68",
+      "path": "/stickers/INTERATIVOS/BOM DIA.png",
+      "category": "interativos",
+      "name": "BOM DIA",
+      "tags": [
+        "interativos",
+        "bom",
+        "dia"
+      ]
+    },
+    {
+      "id": "interativos-69",
+      "path": "/stickers/INTERATIVOS/CHAPA MAXIMA.png",
+      "category": "interativos",
+      "name": "CHAPA MAXIMA",
+      "tags": [
+        "interativos",
+        "chapa",
+        "maxima"
+      ]
+    },
+    {
+      "id": "interativos-70",
+      "path": "/stickers/INTERATIVOS/DEU RED.png",
+      "category": "interativos",
+      "name": "DEU RED",
+      "tags": [
+        "interativos",
+        "deu",
+        "red"
+      ]
+    },
+    {
+      "id": "interativos-71",
+      "path": "/stickers/INTERATIVOS/domingrau.png",
+      "category": "interativos",
+      "name": "domingrau",
+      "tags": [
+        "interativos",
+        "domingrau"
+      ]
+    },
+    {
+      "id": "interativos-72",
+      "path": "/stickers/INTERATIVOS/forte abraço.png",
+      "category": "interativos",
+      "name": "forte abraço",
+      "tags": [
+        "interativos",
+        "forte",
+        "abraço"
+      ]
+    },
+    {
+      "id": "interativos-73",
+      "path": "/stickers/INTERATIVOS/grau e don.png",
+      "category": "interativos",
+      "name": "grau e don",
+      "tags": [
+        "interativos",
+        "grau",
+        "e",
+        "don"
+      ]
+    },
+    {
+      "id": "interativos-74",
+      "path": "/stickers/INTERATIVOS/hoje e domingrau x2.png",
+      "category": "interativos",
+      "name": "hoje e domingrau x2",
+      "tags": [
+        "interativos",
+        "hoje",
+        "e",
+        "domingrau",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-75",
+      "path": "/stickers/INTERATIVOS/hoje e domingrau.png",
+      "category": "interativos",
+      "name": "hoje e domingrau",
+      "tags": [
+        "interativos",
+        "hoje",
+        "e",
+        "domingrau"
+      ]
+    },
+    {
+      "id": "interativos-76",
+      "path": "/stickers/INTERATIVOS/humildade treino e talento.png",
+      "category": "interativos",
+      "name": "humildade treino e talento",
+      "tags": [
+        "interativos",
+        "humildade",
+        "treino",
+        "e",
+        "talento"
+      ]
+    },
+    {
+      "id": "interativos-77",
+      "path": "/stickers/INTERATIVOS/nao bb , nao fumo mais , agora so quero paz.png",
+      "category": "interativos",
+      "name": "nao bb , nao fumo mais , agora so quero paz",
+      "tags": [
+        "interativos",
+        "nao",
+        "bb",
+        ",",
+        "nao",
+        "fumo",
+        "mais",
+        ",",
+        "agora",
+        "so",
+        "quero",
+        "paz"
+      ]
+    },
+    {
+      "id": "interativos-78",
+      "path": "/stickers/INTERATIVOS/NO CORRE DO PROGRESSO.png",
+      "category": "interativos",
+      "name": "NO CORRE DO PROGRESSO",
+      "tags": [
+        "interativos",
+        "no",
+        "corre",
+        "do",
+        "progresso"
+      ]
+    },
+    {
+      "id": "interativos-79",
+      "path": "/stickers/INTERATIVOS/otima quarta feira pra geral.png",
+      "category": "interativos",
+      "name": "otima quarta feira pra geral",
+      "tags": [
+        "interativos",
+        "otima",
+        "quarta",
+        "feira",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "interativos-80",
+      "path": "/stickers/INTERATIVOS/otima quinta feira pra geral.png",
+      "category": "interativos",
+      "name": "otima quinta feira pra geral",
+      "tags": [
+        "interativos",
+        "otima",
+        "quinta",
+        "feira",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "interativos-81",
+      "path": "/stickers/INTERATIVOS/otima segunda feira pra geral.png",
+      "category": "interativos",
+      "name": "otima segunda feira pra geral",
+      "tags": [
+        "interativos",
+        "otima",
+        "segunda",
+        "feira",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "interativos-82",
+      "path": "/stickers/INTERATIVOS/otima sexta feira pra geral.png",
+      "category": "interativos",
+      "name": "otima sexta feira pra geral",
+      "tags": [
+        "interativos",
+        "otima",
+        "sexta",
+        "feira",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "interativos-83",
+      "path": "/stickers/INTERATIVOS/otima terça feira pra geral.png",
+      "category": "interativos",
+      "name": "otima terça feira pra geral",
+      "tags": [
+        "interativos",
+        "otima",
+        "terça",
+        "feira",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "interativos-84",
+      "path": "/stickers/INTERATIVOS/otimo domingo pra geral.png",
+      "category": "interativos",
+      "name": "otimo domingo pra geral",
+      "tags": [
+        "interativos",
+        "otimo",
+        "domingo",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "interativos-85",
+      "path": "/stickers/INTERATIVOS/otimo sabado pra geral.png",
+      "category": "interativos",
+      "name": "otimo sabado pra geral",
+      "tags": [
+        "interativos",
+        "otimo",
+        "sabado",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "interativos-86",
+      "path": "/stickers/INTERATIVOS/pau no cu dos falador eles nunca me deram nada! x2.png",
+      "category": "interativos",
+      "name": "pau no cu dos falador eles nunca me deram nada! x2",
+      "tags": [
+        "interativos",
+        "pau",
+        "no",
+        "cu",
+        "dos",
+        "falador",
+        "eles",
+        "nunca",
+        "me",
+        "deram",
+        "nada!",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-87",
+      "path": "/stickers/INTERATIVOS/pau no cu dos falador eles nunca me deram nada!.png",
+      "category": "interativos",
+      "name": "pau no cu dos falador eles nunca me deram nada!",
+      "tags": [
+        "interativos",
+        "pau",
+        "no",
+        "cu",
+        "dos",
+        "falador",
+        "eles",
+        "nunca",
+        "me",
+        "deram",
+        "nada!"
+      ]
+    },
+    {
+      "id": "interativos-88",
+      "path": "/stickers/INTERATIVOS/quebra e manda x2.png",
+      "category": "interativos",
+      "name": "quebra e manda x2",
+      "tags": [
+        "interativos",
+        "quebra",
+        "e",
+        "manda",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-89",
+      "path": "/stickers/INTERATIVOS/quebra e manda.png",
+      "category": "interativos",
+      "name": "quebra e manda",
+      "tags": [
+        "interativos",
+        "quebra",
+        "e",
+        "manda"
+      ]
+    },
+    {
+      "id": "interativos-90",
+      "path": "/stickers/INTERATIVOS/SO PARA PAH X2.png",
+      "category": "interativos",
+      "name": "SO PARA PAH X2",
+      "tags": [
+        "interativos",
+        "so",
+        "para",
+        "pah",
+        "x2"
+      ]
+    },
+    {
+      "id": "interativos-91",
+      "path": "/stickers/INTERATIVOS/SO PARA PAH X3.png",
+      "category": "interativos",
+      "name": "SO PARA PAH X3",
+      "tags": [
+        "interativos",
+        "so",
+        "para",
+        "pah",
+        "x3"
+      ]
+    },
+    {
+      "id": "interativos-92",
+      "path": "/stickers/INTERATIVOS/SO PARA PAH X4.png",
+      "category": "interativos",
+      "name": "SO PARA PAH X4",
+      "tags": [
+        "interativos",
+        "so",
+        "para",
+        "pah",
+        "x4"
+      ]
+    },
+    {
+      "id": "interativos-93",
+      "path": "/stickers/INTERATIVOS/SO PARA PAH.png",
+      "category": "interativos",
+      "name": "SO PARA PAH",
+      "tags": [
+        "interativos",
+        "so",
+        "para",
+        "pah"
+      ]
+    },
+    {
+      "id": "interativos-94",
+      "path": "/stickers/INTERATIVOS/SOMBRA COLOCAR ATRAS DA FIGURINHA (opcional).png",
+      "category": "interativos",
+      "name": "SOMBRA COLOCAR ATRAS DA FIGURINHA (opcional)",
+      "tags": [
+        "interativos",
+        "sombra",
+        "colocar",
+        "atras",
+        "da",
+        "figurinha",
+        "(opcional)"
+      ]
+    },
+    {
+      "id": "interativos-95",
+      "path": "/stickers/INTERATIVOS/to off me afastando de tudo que me traz problemas.png",
+      "category": "interativos",
+      "name": "to off me afastando de tudo que me traz problemas",
+      "tags": [
+        "interativos",
+        "to",
+        "off",
+        "me",
+        "afastando",
+        "de",
+        "tudo",
+        "que",
+        "me",
+        "traz",
+        "problemas"
+      ]
+    },
+    {
+      "id": "interativos-96",
+      "path": "/stickers/INTERATIVOS/VAMO ATIVAR.png",
+      "category": "interativos",
+      "name": "VAMO ATIVAR",
+      "tags": [
+        "interativos",
+        "vamo",
+        "ativar"
+      ]
+    },
+    {
+      "id": "mais-aqui-0",
+      "path": "/stickers/mais-aqui/11.png",
+      "category": "mais-aqui",
+      "name": "11",
+      "tags": [
+        "mais-aqui",
+        "11"
+      ]
+    },
+    {
+      "id": "mais-aqui-1",
+      "path": "/stickers/mais-aqui/12.png",
+      "category": "mais-aqui",
+      "name": "12",
+      "tags": [
+        "mais-aqui",
+        "12"
+      ]
+    },
+    {
+      "id": "mais-aqui-2",
+      "path": "/stickers/mais-aqui/13.png",
+      "category": "mais-aqui",
+      "name": "13",
+      "tags": [
+        "mais-aqui",
+        "13"
+      ]
+    },
+    {
+      "id": "mais-aqui-3",
+      "path": "/stickers/mais-aqui/15.png",
+      "category": "mais-aqui",
+      "name": "15",
+      "tags": [
+        "mais-aqui",
+        "15"
+      ]
+    },
+    {
+      "id": "mais-aqui-4",
+      "path": "/stickers/mais-aqui/16.png",
+      "category": "mais-aqui",
+      "name": "16",
+      "tags": [
+        "mais-aqui",
+        "16"
+      ]
+    },
+    {
+      "id": "mais-aqui-5",
+      "path": "/stickers/mais-aqui/17.png",
+      "category": "mais-aqui",
+      "name": "17",
+      "tags": [
+        "mais-aqui",
+        "17"
+      ]
+    },
+    {
+      "id": "mais-aqui-6",
+      "path": "/stickers/mais-aqui/18.png",
+      "category": "mais-aqui",
+      "name": "18",
+      "tags": [
+        "mais-aqui",
+        "18"
+      ]
+    },
+    {
+      "id": "mais-aqui-7",
+      "path": "/stickers/mais-aqui/19.png",
+      "category": "mais-aqui",
+      "name": "19",
+      "tags": [
+        "mais-aqui",
+        "19"
+      ]
+    },
+    {
+      "id": "mais-aqui-8",
+      "path": "/stickers/mais-aqui/2.png",
+      "category": "mais-aqui",
+      "name": "2",
+      "tags": [
+        "mais-aqui",
+        "2"
+      ]
+    },
+    {
+      "id": "mais-aqui-9",
+      "path": "/stickers/mais-aqui/20.png",
+      "category": "mais-aqui",
+      "name": "20",
+      "tags": [
+        "mais-aqui",
+        "20"
+      ]
+    },
+    {
+      "id": "mais-aqui-10",
+      "path": "/stickers/mais-aqui/21.png",
+      "category": "mais-aqui",
+      "name": "21",
+      "tags": [
+        "mais-aqui",
+        "21"
+      ]
+    },
+    {
+      "id": "mais-aqui-11",
+      "path": "/stickers/mais-aqui/22.png",
+      "category": "mais-aqui",
+      "name": "22",
+      "tags": [
+        "mais-aqui",
+        "22"
+      ]
+    },
+    {
+      "id": "mais-aqui-12",
+      "path": "/stickers/mais-aqui/23.png",
+      "category": "mais-aqui",
+      "name": "23",
+      "tags": [
+        "mais-aqui",
+        "23"
+      ]
+    },
+    {
+      "id": "mais-aqui-13",
+      "path": "/stickers/mais-aqui/24.png",
+      "category": "mais-aqui",
+      "name": "24",
+      "tags": [
+        "mais-aqui",
+        "24"
+      ]
+    },
+    {
+      "id": "mais-aqui-14",
+      "path": "/stickers/mais-aqui/244 nato.png",
+      "category": "mais-aqui",
+      "name": "244 nato",
+      "tags": [
+        "mais-aqui",
+        "244",
+        "nato"
+      ]
+    },
+    {
+      "id": "mais-aqui-15",
+      "path": "/stickers/mais-aqui/244 ORIGINAL.png",
+      "category": "mais-aqui",
+      "name": "244 ORIGINAL",
+      "tags": [
+        "mais-aqui",
+        "244",
+        "original"
+      ]
+    },
+    {
+      "id": "mais-aqui-16",
+      "path": "/stickers/mais-aqui/25.png",
+      "category": "mais-aqui",
+      "name": "25",
+      "tags": [
+        "mais-aqui",
+        "25"
+      ]
+    },
+    {
+      "id": "mais-aqui-17",
+      "path": "/stickers/mais-aqui/26.png",
+      "category": "mais-aqui",
+      "name": "26",
+      "tags": [
+        "mais-aqui",
+        "26"
+      ]
+    },
+    {
+      "id": "mais-aqui-18",
+      "path": "/stickers/mais-aqui/27.png",
+      "category": "mais-aqui",
+      "name": "27",
+      "tags": [
+        "mais-aqui",
+        "27"
+      ]
+    },
+    {
+      "id": "mais-aqui-19",
+      "path": "/stickers/mais-aqui/28.png",
+      "category": "mais-aqui",
+      "name": "28",
+      "tags": [
+        "mais-aqui",
+        "28"
+      ]
+    },
+    {
+      "id": "mais-aqui-20",
+      "path": "/stickers/mais-aqui/29.png",
+      "category": "mais-aqui",
+      "name": "29",
+      "tags": [
+        "mais-aqui",
+        "29"
+      ]
+    },
+    {
+      "id": "mais-aqui-21",
+      "path": "/stickers/mais-aqui/3.png",
+      "category": "mais-aqui",
+      "name": "3",
+      "tags": [
+        "mais-aqui",
+        "3"
+      ]
+    },
+    {
+      "id": "mais-aqui-22",
+      "path": "/stickers/mais-aqui/30.png",
+      "category": "mais-aqui",
+      "name": "30",
+      "tags": [
+        "mais-aqui",
+        "30"
+      ]
+    },
+    {
+      "id": "mais-aqui-23",
+      "path": "/stickers/mais-aqui/32.png",
+      "category": "mais-aqui",
+      "name": "32",
+      "tags": [
+        "mais-aqui",
+        "32"
+      ]
+    },
+    {
+      "id": "mais-aqui-24",
+      "path": "/stickers/mais-aqui/33.png",
+      "category": "mais-aqui",
+      "name": "33",
+      "tags": [
+        "mais-aqui",
+        "33"
+      ]
+    },
+    {
+      "id": "mais-aqui-25",
+      "path": "/stickers/mais-aqui/34.png",
+      "category": "mais-aqui",
+      "name": "34",
+      "tags": [
+        "mais-aqui",
+        "34"
+      ]
+    },
+    {
+      "id": "mais-aqui-26",
+      "path": "/stickers/mais-aqui/35.png",
+      "category": "mais-aqui",
+      "name": "35",
+      "tags": [
+        "mais-aqui",
+        "35"
+      ]
+    },
+    {
+      "id": "mais-aqui-27",
+      "path": "/stickers/mais-aqui/36.png",
+      "category": "mais-aqui",
+      "name": "36",
+      "tags": [
+        "mais-aqui",
+        "36"
+      ]
+    },
+    {
+      "id": "mais-aqui-28",
+      "path": "/stickers/mais-aqui/37.png",
+      "category": "mais-aqui",
+      "name": "37",
+      "tags": [
+        "mais-aqui",
+        "37"
+      ]
+    },
+    {
+      "id": "mais-aqui-29",
+      "path": "/stickers/mais-aqui/38.png",
+      "category": "mais-aqui",
+      "name": "38",
+      "tags": [
+        "mais-aqui",
+        "38"
+      ]
+    },
+    {
+      "id": "mais-aqui-30",
+      "path": "/stickers/mais-aqui/39.png",
+      "category": "mais-aqui",
+      "name": "39",
+      "tags": [
+        "mais-aqui",
+        "39"
+      ]
+    },
+    {
+      "id": "mais-aqui-31",
+      "path": "/stickers/mais-aqui/4.png",
+      "category": "mais-aqui",
+      "name": "4",
+      "tags": [
+        "mais-aqui",
+        "4"
+      ]
+    },
+    {
+      "id": "mais-aqui-32",
+      "path": "/stickers/mais-aqui/5.png",
+      "category": "mais-aqui",
+      "name": "5",
+      "tags": [
+        "mais-aqui",
+        "5"
+      ]
+    },
+    {
+      "id": "mais-aqui-33",
+      "path": "/stickers/mais-aqui/50.png",
+      "category": "mais-aqui",
+      "name": "50",
+      "tags": [
+        "mais-aqui",
+        "50"
+      ]
+    },
+    {
+      "id": "mais-aqui-34",
+      "path": "/stickers/mais-aqui/51.png",
+      "category": "mais-aqui",
+      "name": "51",
+      "tags": [
+        "mais-aqui",
+        "51"
+      ]
+    },
+    {
+      "id": "mais-aqui-35",
+      "path": "/stickers/mais-aqui/52.png",
+      "category": "mais-aqui",
+      "name": "52",
+      "tags": [
+        "mais-aqui",
+        "52"
+      ]
+    },
+    {
+      "id": "mais-aqui-36",
+      "path": "/stickers/mais-aqui/53.png",
+      "category": "mais-aqui",
+      "name": "53",
+      "tags": [
+        "mais-aqui",
+        "53"
+      ]
+    },
+    {
+      "id": "mais-aqui-37",
+      "path": "/stickers/mais-aqui/54.png",
+      "category": "mais-aqui",
+      "name": "54",
+      "tags": [
+        "mais-aqui",
+        "54"
+      ]
+    },
+    {
+      "id": "mais-aqui-38",
+      "path": "/stickers/mais-aqui/55.png",
+      "category": "mais-aqui",
+      "name": "55",
+      "tags": [
+        "mais-aqui",
+        "55"
+      ]
+    },
+    {
+      "id": "mais-aqui-39",
+      "path": "/stickers/mais-aqui/59.png",
+      "category": "mais-aqui",
+      "name": "59",
+      "tags": [
+        "mais-aqui",
+        "59"
+      ]
+    },
+    {
+      "id": "mais-aqui-40",
+      "path": "/stickers/mais-aqui/6.png",
+      "category": "mais-aqui",
+      "name": "6",
+      "tags": [
+        "mais-aqui",
+        "6"
+      ]
+    },
+    {
+      "id": "mais-aqui-41",
+      "path": "/stickers/mais-aqui/60.png",
+      "category": "mais-aqui",
+      "name": "60",
+      "tags": [
+        "mais-aqui",
+        "60"
+      ]
+    },
+    {
+      "id": "mais-aqui-42",
+      "path": "/stickers/mais-aqui/61.png",
+      "category": "mais-aqui",
+      "name": "61",
+      "tags": [
+        "mais-aqui",
+        "61"
+      ]
+    },
+    {
+      "id": "mais-aqui-43",
+      "path": "/stickers/mais-aqui/62.png",
+      "category": "mais-aqui",
+      "name": "62",
+      "tags": [
+        "mais-aqui",
+        "62"
+      ]
+    },
+    {
+      "id": "mais-aqui-44",
+      "path": "/stickers/mais-aqui/63.png",
+      "category": "mais-aqui",
+      "name": "63",
+      "tags": [
+        "mais-aqui",
+        "63"
+      ]
+    },
+    {
+      "id": "mais-aqui-45",
+      "path": "/stickers/mais-aqui/64.png",
+      "category": "mais-aqui",
+      "name": "64",
+      "tags": [
+        "mais-aqui",
+        "64"
+      ]
+    },
+    {
+      "id": "mais-aqui-46",
+      "path": "/stickers/mais-aqui/65.png",
+      "category": "mais-aqui",
+      "name": "65",
+      "tags": [
+        "mais-aqui",
+        "65"
+      ]
+    },
+    {
+      "id": "mais-aqui-47",
+      "path": "/stickers/mais-aqui/66.png",
+      "category": "mais-aqui",
+      "name": "66",
+      "tags": [
+        "mais-aqui",
+        "66"
+      ]
+    },
+    {
+      "id": "mais-aqui-48",
+      "path": "/stickers/mais-aqui/67.png",
+      "category": "mais-aqui",
+      "name": "67",
+      "tags": [
+        "mais-aqui",
+        "67"
+      ]
+    },
+    {
+      "id": "mais-aqui-49",
+      "path": "/stickers/mais-aqui/68.png",
+      "category": "mais-aqui",
+      "name": "68",
+      "tags": [
+        "mais-aqui",
+        "68"
+      ]
+    },
+    {
+      "id": "mais-aqui-50",
+      "path": "/stickers/mais-aqui/7.png",
+      "category": "mais-aqui",
+      "name": "7",
+      "tags": [
+        "mais-aqui",
+        "7"
+      ]
+    },
+    {
+      "id": "mais-aqui-51",
+      "path": "/stickers/mais-aqui/8.png",
+      "category": "mais-aqui",
+      "name": "8",
+      "tags": [
+        "mais-aqui",
+        "8"
+      ]
+    },
+    {
+      "id": "mais-aqui-52",
+      "path": "/stickers/mais-aqui/9.png",
+      "category": "mais-aqui",
+      "name": "9",
+      "tags": [
+        "mais-aqui",
+        "9"
+      ]
+    },
+    {
+      "id": "mais-aqui-53",
+      "path": "/stickers/mais-aqui/atras das notas x2.png",
+      "category": "mais-aqui",
+      "name": "atras das notas x2",
+      "tags": [
+        "mais-aqui",
+        "atras",
+        "das",
+        "notas",
+        "x2"
+      ]
+    },
+    {
+      "id": "mais-aqui-54",
+      "path": "/stickers/mais-aqui/atras das notas.png",
+      "category": "mais-aqui",
+      "name": "atras das notas",
+      "tags": [
+        "mais-aqui",
+        "atras",
+        "das",
+        "notas"
+      ]
+    },
+    {
+      "id": "mais-aqui-55",
+      "path": "/stickers/mais-aqui/CHAPA MAXIMA.png",
+      "category": "mais-aqui",
+      "name": "CHAPA MAXIMA",
+      "tags": [
+        "mais-aqui",
+        "chapa",
+        "maxima"
+      ]
+    },
+    {
+      "id": "mais-aqui-56",
+      "path": "/stickers/mais-aqui/forte abraço.png",
+      "category": "mais-aqui",
+      "name": "forte abraço",
+      "tags": [
+        "mais-aqui",
+        "forte",
+        "abraço"
+      ]
+    },
+    {
+      "id": "mais-aqui-57",
+      "path": "/stickers/mais-aqui/GRAU É ARTE.png",
+      "category": "mais-aqui",
+      "name": "GRAU É ARTE",
+      "tags": [
+        "mais-aqui",
+        "grau",
+        "é",
+        "arte"
+      ]
+    },
+    {
+      "id": "mais-aqui-58",
+      "path": "/stickers/mais-aqui/humildade treino e talento.png",
+      "category": "mais-aqui",
+      "name": "humildade treino e talento",
+      "tags": [
+        "mais-aqui",
+        "humildade",
+        "treino",
+        "e",
+        "talento"
+      ]
+    },
+    {
+      "id": "mais-aqui-59",
+      "path": "/stickers/mais-aqui/nao bb , nao fumo mais , agora so quero paz.png",
+      "category": "mais-aqui",
+      "name": "nao bb , nao fumo mais , agora so quero paz",
+      "tags": [
+        "mais-aqui",
+        "nao",
+        "bb",
+        ",",
+        "nao",
+        "fumo",
+        "mais",
+        ",",
+        "agora",
+        "so",
+        "quero",
+        "paz"
+      ]
+    },
+    {
+      "id": "mais-aqui-60",
+      "path": "/stickers/mais-aqui/NO CORRE DO PROGRESSO.png",
+      "category": "mais-aqui",
+      "name": "NO CORRE DO PROGRESSO",
+      "tags": [
+        "mais-aqui",
+        "no",
+        "corre",
+        "do",
+        "progresso"
+      ]
+    },
+    {
+      "id": "mais-aqui-61",
+      "path": "/stickers/mais-aqui/pau no cu dos falador eles nunca me deram nada! x2.png",
+      "category": "mais-aqui",
+      "name": "pau no cu dos falador eles nunca me deram nada! x2",
+      "tags": [
+        "mais-aqui",
+        "pau",
+        "no",
+        "cu",
+        "dos",
+        "falador",
+        "eles",
+        "nunca",
+        "me",
+        "deram",
+        "nada!",
+        "x2"
+      ]
+    },
+    {
+      "id": "mais-aqui-62",
+      "path": "/stickers/mais-aqui/quebra e manda.png",
+      "category": "mais-aqui",
+      "name": "quebra e manda",
+      "tags": [
+        "mais-aqui",
+        "quebra",
+        "e",
+        "manda"
+      ]
+    },
+    {
+      "id": "mais-aqui-63",
+      "path": "/stickers/mais-aqui/SOMBRA COLOCAR ATRAS DA FIGURINHA (opcional).png",
+      "category": "mais-aqui",
+      "name": "SOMBRA COLOCAR ATRAS DA FIGURINHA (opcional)",
+      "tags": [
+        "mais-aqui",
+        "sombra",
+        "colocar",
+        "atras",
+        "da",
+        "figurinha",
+        "(opcional)"
+      ]
+    },
+    {
+      "id": "mais-aqui-64",
+      "path": "/stickers/mais-aqui/to off me afastando de tudo que me traz problemas.png",
+      "category": "mais-aqui",
+      "name": "to off me afastando de tudo que me traz problemas",
+      "tags": [
+        "mais-aqui",
+        "to",
+        "off",
+        "me",
+        "afastando",
+        "de",
+        "tudo",
+        "que",
+        "me",
+        "traz",
+        "problemas"
+      ]
+    },
+    {
+      "id": "mais-aqui-65",
+      "path": "/stickers/mais-aqui/VAMO ATIVAR.png",
+      "category": "mais-aqui",
+      "name": "VAMO ATIVAR",
+      "tags": [
+        "mais-aqui",
+        "vamo",
+        "ativar"
+      ]
+    },
+    {
+      "id": "memes-e-frases-0",
+      "path": "/stickers/MEMES E FRASES/BOM DIA - 24.png",
+      "category": "memes-e-frases",
+      "name": "BOM DIA - 24",
+      "tags": [
+        "memes-e-frases",
+        "bom",
+        "dia",
+        "24"
+      ]
+    },
+    {
+      "id": "memes-e-frases-1",
+      "path": "/stickers/MEMES E FRASES/IMG_3968.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3968",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3968"
+      ]
+    },
+    {
+      "id": "memes-e-frases-2",
+      "path": "/stickers/MEMES E FRASES/IMG_3970.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3970",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3970"
+      ]
+    },
+    {
+      "id": "memes-e-frases-3",
+      "path": "/stickers/MEMES E FRASES/IMG_3981.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3981",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3981"
+      ]
+    },
+    {
+      "id": "memes-e-frases-4",
+      "path": "/stickers/MEMES E FRASES/IMG_3982.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3982",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3982"
+      ]
+    },
+    {
+      "id": "memes-e-frases-5",
+      "path": "/stickers/MEMES E FRASES/IMG_3984.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3984",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3984"
+      ]
+    },
+    {
+      "id": "memes-e-frases-6",
+      "path": "/stickers/MEMES E FRASES/IMG_3986.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3986",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3986"
+      ]
+    },
+    {
+      "id": "memes-e-frases-7",
+      "path": "/stickers/MEMES E FRASES/IMG_3989.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3989",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3989"
+      ]
+    },
+    {
+      "id": "memes-e-frases-8",
+      "path": "/stickers/MEMES E FRASES/IMG_3994.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3994",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3994"
+      ]
+    },
+    {
+      "id": "memes-e-frases-9",
+      "path": "/stickers/MEMES E FRASES/IMG_3995.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3995",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3995"
+      ]
+    },
+    {
+      "id": "memes-e-frases-10",
+      "path": "/stickers/MEMES E FRASES/IMG_3996.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3996",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3996"
+      ]
+    },
+    {
+      "id": "memes-e-frases-11",
+      "path": "/stickers/MEMES E FRASES/IMG_3998.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_3998",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "3998"
+      ]
+    },
+    {
+      "id": "memes-e-frases-12",
+      "path": "/stickers/MEMES E FRASES/IMG_4006.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_4006",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "4006"
+      ]
+    },
+    {
+      "id": "memes-e-frases-13",
+      "path": "/stickers/MEMES E FRASES/IMG_4008.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_4008",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "4008"
+      ]
+    },
+    {
+      "id": "memes-e-frases-14",
+      "path": "/stickers/MEMES E FRASES/IMG_4026.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_4026",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "4026"
+      ]
+    },
+    {
+      "id": "memes-e-frases-15",
+      "path": "/stickers/MEMES E FRASES/IMG_4027.PNG",
+      "category": "memes-e-frases",
+      "name": "IMG_4027",
+      "tags": [
+        "memes-e-frases",
+        "img",
+        "4027"
+      ]
+    },
+    {
+      "id": "memes-e-frases-16",
+      "path": "/stickers/MEMES E FRASES/NÃO SUFOQUE O ARTISTA.png",
+      "category": "memes-e-frases",
+      "name": "NÃO SUFOQUE O ARTISTA",
+      "tags": [
+        "memes-e-frases",
+        "não",
+        "sufoque",
+        "o",
+        "artista"
+      ]
+    },
+    {
+      "id": "para-plataforma-0",
+      "path": "/stickers/PARA-PLATAFORMA/1.png",
+      "category": "para-plataforma",
+      "name": "1",
+      "tags": [
+        "para-plataforma",
+        "1"
+      ]
+    },
+    {
+      "id": "para-plataforma-1",
+      "path": "/stickers/PARA-PLATAFORMA/10.png",
+      "category": "para-plataforma",
+      "name": "10",
+      "tags": [
+        "para-plataforma",
+        "10"
+      ]
+    },
+    {
+      "id": "para-plataforma-2",
+      "path": "/stickers/PARA-PLATAFORMA/13.png",
+      "category": "para-plataforma",
+      "name": "13",
+      "tags": [
+        "para-plataforma",
+        "13"
+      ]
+    },
+    {
+      "id": "para-plataforma-3",
+      "path": "/stickers/PARA-PLATAFORMA/CIFRAO BOM E CIFRAO CONTA.png",
+      "category": "para-plataforma",
+      "name": "CIFRAO BOM E CIFRAO CONTA",
+      "tags": [
+        "para-plataforma",
+        "cifrao",
+        "bom",
+        "e",
+        "cifrao",
+        "conta"
+      ]
+    },
+    {
+      "id": "para-plataforma-4",
+      "path": "/stickers/PARA-PLATAFORMA/FAZ E SACA x2.png",
+      "category": "para-plataforma",
+      "name": "FAZ E SACA x2",
+      "tags": [
+        "para-plataforma",
+        "faz",
+        "e",
+        "saca",
+        "x2"
+      ]
+    },
+    {
+      "id": "para-plataforma-5",
+      "path": "/stickers/PARA-PLATAFORMA/FAZ E SACA x3.png",
+      "category": "para-plataforma",
+      "name": "FAZ E SACA x3",
+      "tags": [
+        "para-plataforma",
+        "faz",
+        "e",
+        "saca",
+        "x3"
+      ]
+    },
+    {
+      "id": "para-plataforma-6",
+      "path": "/stickers/PARA-PLATAFORMA/FAZ E SACA X4.png",
+      "category": "para-plataforma",
+      "name": "FAZ E SACA X4",
+      "tags": [
+        "para-plataforma",
+        "faz",
+        "e",
+        "saca",
+        "x4"
+      ]
+    },
+    {
+      "id": "para-plataforma-7",
+      "path": "/stickers/PARA-PLATAFORMA/FAZ E SACA.png",
+      "category": "para-plataforma",
+      "name": "FAZ E SACA",
+      "tags": [
+        "para-plataforma",
+        "faz",
+        "e",
+        "saca"
+      ]
+    },
+    {
+      "id": "para-plataforma-8",
+      "path": "/stickers/PARA-PLATAFORMA/VALE FEITI X2.png",
+      "category": "para-plataforma",
+      "name": "VALE FEITI X2",
+      "tags": [
+        "para-plataforma",
+        "vale",
+        "feiti",
+        "x2"
+      ]
+    },
+    {
+      "id": "para-plataforma-9",
+      "path": "/stickers/PARA-PLATAFORMA/VALE FEITO.png",
+      "category": "para-plataforma",
+      "name": "VALE FEITO",
+      "tags": [
+        "para-plataforma",
+        "vale",
+        "feito"
+      ]
+    },
+    {
+      "id": "reacoes-0",
+      "path": "/stickers/REAÇÕES/01-BOA-FAMILIA-DO-GRAU..png",
+      "category": "reacoes",
+      "name": "01-BOA-FAMILIA-DO-GRAU.",
+      "tags": [
+        "reacoes",
+        "01",
+        "boa",
+        "familia",
+        "do",
+        "grau."
+      ]
+    },
+    {
+      "id": "reacoes-1",
+      "path": "/stickers/REAÇÕES/01-BOA-FAMILIA-DO-GRAU.png",
+      "category": "reacoes",
+      "name": "01-BOA-FAMILIA-DO-GRAU",
+      "tags": [
+        "reacoes",
+        "01",
+        "boa",
+        "familia",
+        "do",
+        "grau"
+      ]
+    },
+    {
+      "id": "reacoes-2",
+      "path": "/stickers/REAÇÕES/01-BOA-NOITE..png",
+      "category": "reacoes",
+      "name": "01-BOA-NOITE.",
+      "tags": [
+        "reacoes",
+        "01",
+        "boa",
+        "noite."
+      ]
+    },
+    {
+      "id": "reacoes-3",
+      "path": "/stickers/REAÇÕES/01-BOA-NOITE.png",
+      "category": "reacoes",
+      "name": "01-BOA-NOITE",
+      "tags": [
+        "reacoes",
+        "01",
+        "boa",
+        "noite"
+      ]
+    },
+    {
+      "id": "reacoes-4",
+      "path": "/stickers/REAÇÕES/01-BOA-TARDE-FAMILIA-DO-GRAU.png",
+      "category": "reacoes",
+      "name": "01-BOA-TARDE-FAMILIA-DO-GRAU",
+      "tags": [
+        "reacoes",
+        "01",
+        "boa",
+        "tarde",
+        "familia",
+        "do",
+        "grau"
+      ]
+    },
+    {
+      "id": "reacoes-5",
+      "path": "/stickers/REAÇÕES/01-BOA-TARDE..png",
+      "category": "reacoes",
+      "name": "01-BOA-TARDE.",
+      "tags": [
+        "reacoes",
+        "01",
+        "boa",
+        "tarde."
+      ]
+    },
+    {
+      "id": "reacoes-6",
+      "path": "/stickers/REAÇÕES/02---BOM-DIA.png",
+      "category": "reacoes",
+      "name": "02---BOM-DIA",
+      "tags": [
+        "reacoes",
+        "02",
+        "bom",
+        "dia"
+      ]
+    },
+    {
+      "id": "reacoes-7",
+      "path": "/stickers/REAÇÕES/02-BOA-NOITE-PRA-GERAL..png",
+      "category": "reacoes",
+      "name": "02-BOA-NOITE-PRA-GERAL.",
+      "tags": [
+        "reacoes",
+        "02",
+        "boa",
+        "noite",
+        "pra",
+        "geral."
+      ]
+    },
+    {
+      "id": "reacoes-8",
+      "path": "/stickers/REAÇÕES/02-BOA-NOITE-PRA-GERAL.png",
+      "category": "reacoes",
+      "name": "02-BOA-NOITE-PRA-GERAL",
+      "tags": [
+        "reacoes",
+        "02",
+        "boa",
+        "noite",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "reacoes-9",
+      "path": "/stickers/REAÇÕES/02-BOA-TARDE-PRA-GERAL..png",
+      "category": "reacoes",
+      "name": "02-BOA-TARDE-PRA-GERAL.",
+      "tags": [
+        "reacoes",
+        "02",
+        "boa",
+        "tarde",
+        "pra",
+        "geral."
+      ]
+    },
+    {
+      "id": "reacoes-10",
+      "path": "/stickers/REAÇÕES/02-BOA-TARDE.png",
+      "category": "reacoes",
+      "name": "02-BOA-TARDE",
+      "tags": [
+        "reacoes",
+        "02",
+        "boa",
+        "tarde"
+      ]
+    },
+    {
+      "id": "reacoes-11",
+      "path": "/stickers/REAÇÕES/02-BOM-DIA..png",
+      "category": "reacoes",
+      "name": "02-BOM-DIA.",
+      "tags": [
+        "reacoes",
+        "02",
+        "bom",
+        "dia."
+      ]
+    },
+    {
+      "id": "reacoes-12",
+      "path": "/stickers/REAÇÕES/03 BOM DIA PRA GERAL..png",
+      "category": "reacoes",
+      "name": "03 BOM DIA PRA GERAL.",
+      "tags": [
+        "reacoes",
+        "03",
+        "bom",
+        "dia",
+        "pra",
+        "geral."
+      ]
+    },
+    {
+      "id": "reacoes-13",
+      "path": "/stickers/REAÇÕES/03-BOA-NOITE-COM-JESUS..png",
+      "category": "reacoes",
+      "name": "03-BOA-NOITE-COM-JESUS.",
+      "tags": [
+        "reacoes",
+        "03",
+        "boa",
+        "noite",
+        "com",
+        "jesus."
+      ]
+    },
+    {
+      "id": "reacoes-14",
+      "path": "/stickers/REAÇÕES/03-BOA-NOITE-COM-JESUS.png",
+      "category": "reacoes",
+      "name": "03-BOA-NOITE-COM-JESUS",
+      "tags": [
+        "reacoes",
+        "03",
+        "boa",
+        "noite",
+        "com",
+        "jesus"
+      ]
+    },
+    {
+      "id": "reacoes-15",
+      "path": "/stickers/REAÇÕES/03-BOA-TARDE-COM-JESUS..png",
+      "category": "reacoes",
+      "name": "03-BOA-TARDE-COM-JESUS.",
+      "tags": [
+        "reacoes",
+        "03",
+        "boa",
+        "tarde",
+        "com",
+        "jesus."
+      ]
+    },
+    {
+      "id": "reacoes-16",
+      "path": "/stickers/REAÇÕES/03-BOA-TARDE-PRA-GERAL.png",
+      "category": "reacoes",
+      "name": "03-BOA-TARDE-PRA-GERAL",
+      "tags": [
+        "reacoes",
+        "03",
+        "boa",
+        "tarde",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "reacoes-17",
+      "path": "/stickers/REAÇÕES/03-BOM-DIA-PRA-GERAL.png",
+      "category": "reacoes",
+      "name": "03-BOM-DIA-PRA-GERAL",
+      "tags": [
+        "reacoes",
+        "03",
+        "bom",
+        "dia",
+        "pra",
+        "geral"
+      ]
+    },
+    {
+      "id": "reacoes-18",
+      "path": "/stickers/REAÇÕES/04-BOM-DIA-COM-JESUS..png",
+      "category": "reacoes",
+      "name": "04-BOM-DIA-COM-JESUS.",
+      "tags": [
+        "reacoes",
+        "04",
+        "bom",
+        "dia",
+        "com",
+        "jesus."
+      ]
+    },
+    {
+      "id": "reacoes-19",
+      "path": "/stickers/REAÇÕES/04-BOM-DIA-COM-JESUS.png",
+      "category": "reacoes",
+      "name": "04-BOM-DIA-COM-JESUS",
+      "tags": [
+        "reacoes",
+        "04",
+        "bom",
+        "dia",
+        "com",
+        "jesus"
+      ]
+    },
+    {
+      "id": "reacoes-20",
+      "path": "/stickers/REAÇÕES/10.png",
+      "category": "reacoes",
+      "name": "10",
+      "tags": [
+        "reacoes",
+        "10"
+      ]
+    },
+    {
+      "id": "reacoes-21",
+      "path": "/stickers/REAÇÕES/2.png",
+      "category": "reacoes",
+      "name": "2",
+      "tags": [
+        "reacoes",
+        "2"
+      ]
+    },
+    {
+      "id": "reacoes-22",
+      "path": "/stickers/REAÇÕES/3.png",
+      "category": "reacoes",
+      "name": "3",
+      "tags": [
+        "reacoes",
+        "3"
+      ]
+    },
+    {
+      "id": "reacoes-23",
+      "path": "/stickers/REAÇÕES/4.png",
+      "category": "reacoes",
+      "name": "4",
+      "tags": [
+        "reacoes",
+        "4"
+      ]
+    },
+    {
+      "id": "reacoes-24",
+      "path": "/stickers/REAÇÕES/5.PNG",
+      "category": "reacoes",
+      "name": "5",
+      "tags": [
+        "reacoes",
+        "5"
+      ]
+    },
+    {
+      "id": "reacoes-25",
+      "path": "/stickers/REAÇÕES/6.PNG",
+      "category": "reacoes",
+      "name": "6",
+      "tags": [
+        "reacoes",
+        "6"
+      ]
+    },
+    {
+      "id": "reacoes-26",
+      "path": "/stickers/REAÇÕES/7.png",
+      "category": "reacoes",
+      "name": "7",
+      "tags": [
+        "reacoes",
+        "7"
+      ]
+    },
+    {
+      "id": "reacoes-27",
+      "path": "/stickers/REAÇÕES/8.png",
+      "category": "reacoes",
+      "name": "8",
+      "tags": [
+        "reacoes",
+        "8"
+      ]
+    },
+    {
+      "id": "reacoes-28",
+      "path": "/stickers/REAÇÕES/9.png",
+      "category": "reacoes",
+      "name": "9",
+      "tags": [
+        "reacoes",
+        "9"
+      ]
+    },
+    {
+      "id": "sombras-0",
+      "path": "/stickers/SOMBRAS/IMG_4187.PNG",
+      "category": "sombras",
+      "name": "IMG_4187",
+      "tags": [
+        "sombras",
+        "img",
+        "4187"
+      ]
+    },
+    {
+      "id": "sombras-1",
+      "path": "/stickers/SOMBRAS/IMG_4331.PNG",
+      "category": "sombras",
+      "name": "IMG_4331",
+      "tags": [
+        "sombras",
+        "img",
+        "4331"
+      ]
+    },
+    {
+      "id": "sombras-2",
+      "path": "/stickers/SOMBRAS/IMG_4332.PNG",
+      "category": "sombras",
+      "name": "IMG_4332",
+      "tags": [
+        "sombras",
+        "img",
+        "4332"
+      ]
+    },
+    {
+      "id": "sombras-3",
+      "path": "/stickers/SOMBRAS/IMG_4333.PNG",
+      "category": "sombras",
+      "name": "IMG_4333",
+      "tags": [
+        "sombras",
+        "img",
+        "4333"
+      ]
+    },
+    {
+      "id": "sombras-4",
+      "path": "/stickers/SOMBRAS/IMG_4335.PNG",
+      "category": "sombras",
+      "name": "IMG_4335",
+      "tags": [
+        "sombras",
+        "img",
+        "4335"
+      ]
+    },
+    {
+      "id": "sombras-5",
+      "path": "/stickers/SOMBRAS/IMG_4336.PNG",
+      "category": "sombras",
+      "name": "IMG_4336",
+      "tags": [
+        "sombras",
+        "img",
+        "4336"
+      ]
+    },
+    {
+      "id": "sombras-6",
+      "path": "/stickers/SOMBRAS/IMG_4337.PNG",
+      "category": "sombras",
+      "name": "IMG_4337",
+      "tags": [
+        "sombras",
+        "img",
+        "4337"
+      ]
+    },
+    {
+      "id": "sombras-7",
+      "path": "/stickers/SOMBRAS/IMG_4338.PNG",
+      "category": "sombras",
+      "name": "IMG_4338",
+      "tags": [
+        "sombras",
+        "img",
+        "4338"
+      ]
+    },
+    {
+      "id": "sombras-8",
+      "path": "/stickers/SOMBRAS/IMG_4339.PNG",
+      "category": "sombras",
+      "name": "IMG_4339",
+      "tags": [
+        "sombras",
+        "img",
+        "4339"
+      ]
+    },
+    {
+      "id": "sombras-9",
+      "path": "/stickers/SOMBRAS/IMG_4340.PNG",
+      "category": "sombras",
+      "name": "IMG_4340",
+      "tags": [
+        "sombras",
+        "img",
+        "4340"
+      ]
+    },
+    {
+      "id": "sombras-10",
+      "path": "/stickers/SOMBRAS/IMG_4341.PNG",
+      "category": "sombras",
+      "name": "IMG_4341",
+      "tags": [
+        "sombras",
+        "img",
+        "4341"
+      ]
+    },
+    {
+      "id": "sombras-11",
+      "path": "/stickers/SOMBRAS/IMG_4342.PNG",
+      "category": "sombras",
+      "name": "IMG_4342",
+      "tags": [
+        "sombras",
+        "img",
+        "4342"
+      ]
+    },
+    {
+      "id": "sombras-12",
+      "path": "/stickers/SOMBRAS/IMG_4343(1).PNG",
+      "category": "sombras",
+      "name": "IMG_4343(1)",
+      "tags": [
+        "sombras",
+        "img",
+        "4343(1)"
+      ]
+    },
+    {
+      "id": "sombras-13",
+      "path": "/stickers/SOMBRAS/IMG_4343.PNG",
+      "category": "sombras",
+      "name": "IMG_4343",
+      "tags": [
+        "sombras",
+        "img",
+        "4343"
+      ]
+    },
+    {
+      "id": "sombras-14",
+      "path": "/stickers/SOMBRAS/IMG_4344.PNG",
+      "category": "sombras",
+      "name": "IMG_4344",
+      "tags": [
+        "sombras",
+        "img",
+        "4344"
+      ]
+    },
+    {
+      "id": "sombras-15",
+      "path": "/stickers/SOMBRAS/IMG_4345(1).PNG",
+      "category": "sombras",
+      "name": "IMG_4345(1)",
+      "tags": [
+        "sombras",
+        "img",
+        "4345(1)"
+      ]
+    },
+    {
+      "id": "sombras-16",
+      "path": "/stickers/SOMBRAS/IMG_4345.PNG",
+      "category": "sombras",
+      "name": "IMG_4345",
+      "tags": [
+        "sombras",
+        "img",
+        "4345"
+      ]
+    },
+    {
+      "id": "sombras-17",
+      "path": "/stickers/SOMBRAS/IMG_4346.PNG",
+      "category": "sombras",
+      "name": "IMG_4346",
+      "tags": [
+        "sombras",
+        "img",
+        "4346"
+      ]
+    },
+    {
+      "id": "sombras-18",
+      "path": "/stickers/SOMBRAS/IMG_4347.PNG",
+      "category": "sombras",
+      "name": "IMG_4347",
+      "tags": [
+        "sombras",
+        "img",
+        "4347"
+      ]
+    },
+    {
+      "id": "sombras-19",
+      "path": "/stickers/SOMBRAS/IMG_4349.PNG",
+      "category": "sombras",
+      "name": "IMG_4349",
+      "tags": [
+        "sombras",
+        "img",
+        "4349"
+      ]
+    },
+    {
+      "id": "sombras-20",
+      "path": "/stickers/SOMBRAS/IMG_4350.PNG",
+      "category": "sombras",
+      "name": "IMG_4350",
+      "tags": [
+        "sombras",
+        "img",
+        "4350"
+      ]
+    },
+    {
+      "id": "sombras-21",
+      "path": "/stickers/SOMBRAS/IMG_4351.PNG",
+      "category": "sombras",
+      "name": "IMG_4351",
+      "tags": [
+        "sombras",
+        "img",
+        "4351"
+      ]
+    },
+    {
+      "id": "sombras-22",
+      "path": "/stickers/SOMBRAS/IMG_4352.PNG",
+      "category": "sombras",
+      "name": "IMG_4352",
+      "tags": [
+        "sombras",
+        "img",
+        "4352"
+      ]
+    },
+    {
+      "id": "sombras-23",
+      "path": "/stickers/SOMBRAS/IMG_4353.PNG",
+      "category": "sombras",
+      "name": "IMG_4353",
+      "tags": [
+        "sombras",
+        "img",
+        "4353"
+      ]
+    },
+    {
+      "id": "sombras-24",
+      "path": "/stickers/SOMBRAS/IMG_4355.PNG",
+      "category": "sombras",
+      "name": "IMG_4355",
+      "tags": [
+        "sombras",
+        "img",
+        "4355"
+      ]
+    },
+    {
+      "id": "sombras-25",
+      "path": "/stickers/SOMBRAS/IMG_4357.PNG",
+      "category": "sombras",
+      "name": "IMG_4357",
+      "tags": [
+        "sombras",
+        "img",
+        "4357"
+      ]
+    },
+    {
+      "id": "sombras-26",
+      "path": "/stickers/SOMBRAS/IMG_4358.PNG",
+      "category": "sombras",
+      "name": "IMG_4358",
+      "tags": [
+        "sombras",
+        "img",
+        "4358"
+      ]
+    },
+    {
+      "id": "sombras-27",
+      "path": "/stickers/SOMBRAS/IMG_4359.PNG",
+      "category": "sombras",
+      "name": "IMG_4359",
+      "tags": [
+        "sombras",
+        "img",
+        "4359"
+      ]
+    },
+    {
+      "id": "sombras-28",
+      "path": "/stickers/SOMBRAS/IMG_4360.PNG",
+      "category": "sombras",
+      "name": "IMG_4360",
+      "tags": [
+        "sombras",
+        "img",
+        "4360"
+      ]
+    },
+    {
+      "id": "sombras-29",
+      "path": "/stickers/SOMBRAS/IMG_4361.PNG",
+      "category": "sombras",
+      "name": "IMG_4361",
+      "tags": [
+        "sombras",
+        "img",
+        "4361"
+      ]
+    },
+    {
+      "id": "sombras-30",
+      "path": "/stickers/SOMBRAS/IMG_4362.PNG",
+      "category": "sombras",
+      "name": "IMG_4362",
+      "tags": [
+        "sombras",
+        "img",
+        "4362"
+      ]
+    },
+    {
+      "id": "sombras-31",
+      "path": "/stickers/SOMBRAS/IMG_4363.PNG",
+      "category": "sombras",
+      "name": "IMG_4363",
+      "tags": [
+        "sombras",
+        "img",
+        "4363"
+      ]
+    },
+    {
+      "id": "sombras-32",
+      "path": "/stickers/SOMBRAS/IMG_4364.PNG",
+      "category": "sombras",
+      "name": "IMG_4364",
+      "tags": [
+        "sombras",
+        "img",
+        "4364"
+      ]
+    },
+    {
+      "id": "sombras-33",
+      "path": "/stickers/SOMBRAS/IMG_4365.PNG",
+      "category": "sombras",
+      "name": "IMG_4365",
+      "tags": [
+        "sombras",
+        "img",
+        "4365"
+      ]
+    },
+    {
+      "id": "sombras-34",
+      "path": "/stickers/SOMBRAS/IMG_4366.PNG",
+      "category": "sombras",
+      "name": "IMG_4366",
+      "tags": [
+        "sombras",
+        "img",
+        "4366"
+      ]
+    },
+    {
+      "id": "sombras-35",
+      "path": "/stickers/SOMBRAS/IMG_4367.PNG",
+      "category": "sombras",
+      "name": "IMG_4367",
+      "tags": [
+        "sombras",
+        "img",
+        "4367"
+      ]
+    },
+    {
+      "id": "sombras-36",
+      "path": "/stickers/SOMBRAS/IMG_4368.PNG",
+      "category": "sombras",
+      "name": "IMG_4368",
+      "tags": [
+        "sombras",
+        "img",
+        "4368"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+=======================================
+  STICKER VAULT - Como adicionar figurinhas
+=======================================
+
+1. Crie pastas por categoria aqui dentro:
+   📁 public/stickers/memes/
+   📁 public/stickers/emojis/
+   📁 public/stickers/animados/
+   📁 public/stickers/motivacional/
+   📁 public/stickers/amor/
+   📁 public/stickers/festa/
+   📁 (crie quantas quiser!)
+
+2. Coloque suas figurinhas dentro das pastas:
+   Formatos aceitos: PNG, GIF, WebP, JPG, SVG
+
+3. Gere o manifesto:
+   npm run generate-manifest
+
+4. Abra src/data/mockStickers.js e
+   troque as últimas linhas para:
+
+   import manifest from '/stickers/manifest.json'
+   export const STICKERS = manifest.stickers
+   export const CATEGORIES = manifest.categories
+
+5. Execute: npm run dev
+
+=======================================
+💡 DICA: PNG transparente funciona melhor
+   para colar no Instagram!
+=======================================
