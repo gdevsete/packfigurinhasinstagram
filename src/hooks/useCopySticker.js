@@ -25,9 +25,7 @@ export function useCopySticker(onCopied) {
         if (copied) {
           addToast('📋 Copiado! Cole no Instagram', 'success')
         } else {
-          // Clipboard não suportado (mobile) → baixa a imagem
-          await downloadImage(sticker.path, sticker.name)
-          addToast('💾 Salvo! Abra no Instagram e cole da galeria', 'success')
+          addToast('⚠️ Seu navegador não suporta copiar imagem. Use o botão de compartilhar.', 'error')
         }
       } else {
         await navigator.clipboard.writeText(sticker.emoji)
@@ -74,14 +72,14 @@ export function useCopySticker(onCopied) {
 async function tryClipboard(imageUrl) {
   if (typeof ClipboardItem === 'undefined' || !navigator.clipboard?.write) return false
   try {
-    const response = await fetch(imageUrl)
-    const blob = await response.blob()
-    let finalBlob = blob
-    if (blob.type !== 'image/png') {
-      finalBlob = await convertToPng(blob)
-    }
+    // A Promise é passada diretamente ao ClipboardItem para preservar o gesto do usuário
+    // no mobile (await antes do write quebraria a user activation)
+    const blobPromise = fetch(imageUrl)
+      .then(r => r.blob())
+      .then(blob => blob.type === 'image/png' ? blob : convertToPng(blob))
+
     await navigator.clipboard.write([
-      new ClipboardItem({ 'image/png': finalBlob })
+      new ClipboardItem({ 'image/png': blobPromise })
     ])
     return true
   } catch {
