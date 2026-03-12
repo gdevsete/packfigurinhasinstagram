@@ -26,12 +26,9 @@ export function useCopySticker(onCopied) {
         const isGif = sticker.path.toLowerCase().endsWith('.gif')
 
         if (isGif && isMobile) {
-          // GIF no mobile: abre o compartilhamento do sistema → Instagram aceita como Stories/Reels
-          const shared = await shareFile(sticker.path, sticker.name, 'image/gif')
-          if (!shared) {
-            await downloadImage(sticker.path, sticker.name, 'gif')
-            addToast('💾 GIF salvo! Abra no Instagram e escolha da galeria', 'success')
-          }
+          // GIF no mobile: baixa para a galeria — Instagram não aceita GIF via clipboard nem share como animado
+          await downloadImage(sticker.path, sticker.name, 'gif')
+          addToast('💾 GIF salvo na galeria! Abra o Instagram → Story → escolha da galeria', 'success')
         } else {
           const copied = await tryClipboard(sticker.path)
           if (copied) {
@@ -85,11 +82,11 @@ export function useCopySticker(onCopied) {
 async function tryClipboard(imageUrl) {
   if (typeof ClipboardItem === 'undefined' || !navigator.clipboard?.write) return false
   try {
+    // Sempre converte pelo canvas com fundo branco — evita fundo preto no Instagram DM
     // A Promise é passada diretamente ao ClipboardItem para preservar o gesto do usuário
-    // no mobile (await antes do write quebraria a user activation)
     const blobPromise = fetch(imageUrl)
       .then(r => r.blob())
-      .then(blob => blob.type === 'image/png' ? blob : convertToPng(blob))
+      .then(blob => convertToPng(blob, true))
 
     await navigator.clipboard.write([
       new ClipboardItem({ 'image/png': blobPromise })
@@ -130,15 +127,19 @@ async function downloadImage(imageUrl, name, ext = 'png') {
   URL.revokeObjectURL(url)
 }
 
-async function convertToPng(blob) {
+async function convertToPng(blob, whiteBackground = false) {
   return new Promise((resolve) => {
     const img = new Image()
     const url = URL.createObjectURL(blob)
     img.onload = () => {
       const canvas = document.createElement('canvas')
-      canvas.width = img.width
-      canvas.height = img.height
+      canvas.width = img.naturalWidth || img.width
+      canvas.height = img.naturalHeight || img.height
       const ctx = canvas.getContext('2d')
+      if (whiteBackground) {
+        ctx.fillStyle = '#ffffff'
+        ctx.fillRect(0, 0, canvas.width, canvas.height)
+      }
       ctx.drawImage(img, 0, 0)
       URL.revokeObjectURL(url)
       canvas.toBlob(resolve, 'image/png')
