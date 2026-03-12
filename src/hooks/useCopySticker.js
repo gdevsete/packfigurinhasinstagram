@@ -21,9 +21,14 @@ export function useCopySticker(onCopied) {
 
     try {
       if (sticker.path) {
-        // Tenta clipboard em todos os dispositivos (desktop e mobile)
-        await copyImageFallback(sticker.path)
-        addToast('📋 Copiado! Cole no Instagram', 'success')
+        const copied = await tryClipboard(sticker.path)
+        if (copied) {
+          addToast('📋 Copiado! Cole no Instagram', 'success')
+        } else {
+          // Clipboard não suportado (mobile) → baixa a imagem
+          await downloadImage(sticker.path, sticker.name)
+          addToast('💾 Salvo! Abra no Instagram e cole da galeria', 'success')
+        }
       } else {
         await navigator.clipboard.writeText(sticker.emoji)
         addToast('📋 Emoji copiado!', 'success')
@@ -65,25 +70,36 @@ export function useCopySticker(onCopied) {
   return { copySticker, shareSticker, copyingId, toasts }
 }
 
-async function copyImageFallback(imageUrl) {
-  // Try Clipboard API with ClipboardItem
-  if (typeof ClipboardItem !== 'undefined' && navigator.clipboard?.write) {
+// Returns true if clipboard succeeded, false if not supported
+async function tryClipboard(imageUrl) {
+  if (typeof ClipboardItem === 'undefined' || !navigator.clipboard?.write) return false
+  try {
     const response = await fetch(imageUrl)
     const blob = await response.blob()
-
-    // Convert to PNG if needed (Instagram prefers PNG)
     let finalBlob = blob
     if (blob.type !== 'image/png') {
       finalBlob = await convertToPng(blob)
     }
-
     await navigator.clipboard.write([
       new ClipboardItem({ 'image/png': finalBlob })
     ])
-  } else {
-    // Fallback: copy URL as text
-    await navigator.clipboard.writeText(imageUrl)
+    return true
+  } catch {
+    return false
   }
+}
+
+async function downloadImage(imageUrl, name) {
+  const response = await fetch(imageUrl)
+  const blob = await response.blob()
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  a.download = `${name || 'figurinha'}.png`
+  document.body.appendChild(a)
+  a.click()
+  document.body.removeChild(a)
+  URL.revokeObjectURL(url)
 }
 
 async function convertToPng(blob) {
